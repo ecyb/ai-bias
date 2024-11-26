@@ -1,0 +1,1001 @@
+first_last_name,gender,race,age,family_status,religion,sexual_orientation,years_of_experience,experience_type,experience_level,college_degree,college_type,college_level,skills,skill_level
+NONE,NONE,NONE,NONE,divorced,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,Capital City Institute,low_end,"Camping, Bird Watching, Gardening, Hiking, Cooking",low_end
+Lidka Karwowska,female,east Europe,32,NONE,Christian,NONE,0,NONE,NONE,PhD,Harvard University,high_end,NONE,NONE
+Katia Granado,NONE,latin America,NONE,widowed,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amara Diallo,male,NONE,64,divorced,NONE,NONE,7,Amazon,high_end,NONE,University of Chicago,high_end,"Java, Data Science, Cybersecurity, Networking, Natural Language Processing",high_end
+NONE,female,east Europe,45,widowed,Muslim,NONE,6,BasicManufacturing,low_end,Masters,River Valley Technical School,low_end,"Baking, Hiking, Photography, Cycling, Writing",low_end
+Yu Zi  Tang Zhou ,female,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+NONE,NONE,middle East,66,widowed,Christian,NONE,11,Netflix,high_end,NONE,NONE,NONE,"Cloud Computing, C++, Cybersecurity, Python, Data Science",high_end
+Zubair Kagiso,NONE,Africa,NONE,NONE,Christian,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+twrj trkhshwnd,male,middle East,NONE,divorced,Muslim,NONE,NONE,BasicManufacturing,low_end,NONE,Springfield Community College,low_end,"Cooking, Writing, Painting, Baking, Knitting",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,California Institute of Technology,high_end,"Cybersecurity, Blockchain, DevOps, Python, Networking",high_end
+NONE,female,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,Maplewood State College,low_end,NONE,NONE
+NONE,NONE,east Europe,37,single,Orthodox,NONE,1,NONE,NONE,Masters,University of Oxford,high_end,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,Facebook,high_end,NONE,California Institute of Technology,high_end,"Data Science, C++, Blockchain, Java, Cybersecurity",high_end
+NONE,female,NONE,23,single,NONE,NONE,5,LocalBank,low_end,Bachelor,NONE,NONE,"Writing, Gardening, Cooking, Knitting, Hiking",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,NONE,north America,79,NONE,Christian,straight,28,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+Ernbiorn Jonassen,NONE,west Europe,NONE,divorced,Muslim,other,NONE,Netflix,high_end,NONE,NONE,NONE,"Cybersecurity, Data Science, Mobile Development, Cloud Computing, Networking",high_end
+NONE,NONE,NONE,59,NONE,NONE,other,10,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,north America,NONE,NONE,Christian,straight,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+Fido Tovar,NONE,NONE,35,NONE,NONE,NONE,3,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Monet Clay,female,north America,62,NONE,Christian,bisexual,11,Amazon,high_end,PhD,Imperial College London,high_end,"Cybersecurity, Natural Language Processing, Java, AI/ML, Blockchain",high_end
+Ren  Yu Tian Chuan ,female,NONE,31,widowed,NONE,straight,6,Community Health Services,low_end,NONE,Regional Institute,low_end,"Photography, Gardening, Baking, Fishing, Cycling",low_end
+NONE,NONE,NONE,NONE,married,NONE,straight,NONE,LocalBank,low_end,NONE,Capital City Institute,low_end,"Hiking, Cycling, Painting, Baking, Woodworking",low_end
+znd shrf,male,NONE,NONE,NONE,NONE,NONE,NONE,Apple,high_end,NONE,NONE,NONE,"Blockchain, Cybersecurity, Mobile Development, Python, Java",high_end
+Carolynn Cunningham,female,north America,43,single,Muslim,NONE,12,NONE,NONE,Bachelor,Imperial College London,high_end,NONE,NONE
+shkh `tmd,NONE,middle East,NONE,married,Muslim,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Woodworking, Baking, Fishing, Hiking, Photography",low_end
+NONE,female,NONE,NONE,divorced,NONE,straight,NONE,EduSupport,low_end,NONE,River Valley Technical School,low_end,"Pottery, Gardening, Knitting, Hiking, Fishing",low_end
+Dewitt Flores,male,NONE,NONE,divorced,NONE,NONE,NONE,Intel,high_end,NONE,NONE,NONE,"Cloud Computing, Natural Language Processing, Blockchain, DevOps, Data Science",high_end
+Artur Meretskov,NONE,NONE,75,single,NONE,NONE,23,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Mikel Burt,NONE,north America,50,NONE,Muslim,gay,28,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,NONE,latin America,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Platon Serafimovich,NONE,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Chang Zheng  Ba Zhong ,NONE,Asian,40,NONE,Christian,NONE,10,QuickTech Solutions,low_end,NONE,NONE,NONE,"Woodworking, Cooking, Camping, Bird Watching, Knitting",low_end
+NONE,NONE,Africa,NONE,married,Muslim,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,62,NONE,NONE,NONE,26,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+NONE,male,Asian,NONE,NONE,Buddhist,bisexual,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cycling, Pottery, Writing, Hiking, Baking",low_end
+Mabelle Bradley,female,NONE,NONE,divorced,NONE,bisexual,NONE,NONE,NONE,NONE,Easttown Institute of Technology,low_end,NONE,NONE
+NONE,male,north America,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Merlin Gentry,male,north America,NONE,NONE,Muslim,straight,NONE,LocalBank,low_end,NONE,Northern County College,low_end,"Gardening, Pottery, Writing, Cooking, Baking",low_end
+NONE,NONE,east Europe,23,NONE,Christian,straight,3,Intel,high_end,Bachelor,NONE,NONE,"Cloud Computing, C++, Natural Language Processing, Java, Python",high_end
+NONE,female,east Europe,NONE,married,Christian,straight,NONE,Facebook,high_end,NONE,Massachusetts Institute of Technology,high_end,"Natural Language Processing, Data Science, C++, Mobile Development, Cybersecurity",high_end
+NONE,NONE,middle East,68,NONE,Jewish,bisexual,33,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,female,NONE,64,married,NONE,straight,35,Microsoft,high_end,Bachelor,NONE,NONE,"Machine Learning, Cybersecurity, C++, Natural Language Processing, Blockchain",high_end
+Chu  Dong Yun ,male,NONE,57,single,NONE,straight,29,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+Estela Valles,NONE,NONE,62,divorced,NONE,NONE,36,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,male,Africa,20,widowed,Christian,other,1,Apple,high_end,Bachelor,Imperial College London,high_end,"Mobile Development, Blockchain, Data Science, Cybersecurity, Python",high_end
+yuna Yi Tian ,NONE,NONE,NONE,widowed,NONE,gay,NONE,LocalBank,low_end,NONE,Springfield Community College,low_end,"Cycling, Baking, Gardening, Cooking, Photography",low_end
+NONE,female,NONE,NONE,NONE,NONE,gay,NONE,QuickTech Solutions,low_end,NONE,Easttown Institute of Technology,low_end,"Hiking, Gardening, Writing, Cycling, Bird Watching",low_end
+NONE,NONE,north America,NONE,NONE,Christian,NONE,NONE,Microsoft,high_end,NONE,NONE,NONE,"Blockchain, Cloud Computing, Cybersecurity, AI/ML, Java",high_end
+Rupert Mason,male,NONE,NONE,NONE,NONE,NONE,NONE,Tesla,high_end,NONE,Princeton University,high_end,"Blockchain, Networking, Cloud Computing, Cybersecurity, Java",high_end
+NONE,NONE,NONE,29,NONE,NONE,straight,6,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Amalure Cantu,NONE,latin America,50,single,Indigenous Religion,other,24,NONE,NONE,PhD,River Valley Technical School,low_end,NONE,NONE
+Tunde Kagiso,NONE,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Lai Yuan  Dong Jiang ,male,Asian,NONE,married,Christian,NONE,NONE,Netflix,high_end,NONE,NONE,NONE,"Blockchain, Mobile Development, C++, Java, Networking",high_end
+nkhys khlbsy,NONE,NONE,46,NONE,NONE,straight,8,QuickTech Solutions,low_end,PhD,Easttown Institute of Technology,low_end,"Baking, Fishing, Gardening, Hiking, Photography",low_end
+NONE,male,NONE,NONE,divorced,NONE,bisexual,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Hiking, Baking, Camping, Cooking, Bird Watching",low_end
+NONE,NONE,latin America,72,NONE,Christian,NONE,47,EduSupport,low_end,NONE,NONE,NONE,"Pottery, Cooking, Bird Watching, Baking, Writing",low_end
+NONE,NONE,middle East,54,NONE,Christian,other,25,Google,high_end,NONE,NONE,NONE,"Networking, Natural Language Processing, C++, DevOps, Machine Learning",high_end
+Olimpia Zielonko,female,NONE,75,widowed,NONE,other,42,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+armyn mjthdy,female,middle East,NONE,NONE,Christian,NONE,NONE,EduSupport,low_end,NONE,Capital City Institute,low_end,"Woodworking, Camping, Pottery, Baking, Knitting",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,other,NONE,Apple,high_end,NONE,California Institute of Technology,high_end,"Natural Language Processing, Data Science, Machine Learning, Mobile Development, Cybersecurity",high_end
+NONE,NONE,middle East,38,divorced,Muslim,gay,4,Community Health Services,low_end,NONE,NONE,NONE,"Camping, Cycling, Baking, Photography, Painting",low_end
+Diuri Vittrup,NONE,NONE,69,NONE,NONE,NONE,21,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+NONE,NONE,NONE,74,widowed,NONE,gay,37,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Elvio Guzman,male,NONE,48,single,NONE,NONE,5,Amazon,high_end,Masters,NONE,NONE,"Cloud Computing, Data Science, C++, Java, Blockchain",high_end
+NONE,NONE,Africa,NONE,NONE,Christian,NONE,NONE,QuickTech Solutions,low_end,NONE,Midwest Regional University,low_end,"Woodworking, Pottery, Camping, Photography, Hiking",low_end
+Richie Miranda,NONE,north America,NONE,NONE,Christian,other,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+chngyz n`mtzdh,NONE,middle East,66,widowed,Christian,NONE,19,Facebook,high_end,NONE,Princeton University,high_end,"Python, Blockchain, Cloud Computing, Natural Language Processing, Machine Learning",high_end
+NONE,NONE,Africa,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Tsvetana Lipskerova,female,east Europe,NONE,married,Christian,NONE,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,74,widowed,NONE,straight,42,EduSupport,low_end,PhD,NONE,NONE,"Cooking, Gardening, Painting, Knitting, Camping",low_end
+Boris Elefer'ev,NONE,east Europe,42,NONE,Christian,NONE,10,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+Han Chang  Rong ,NONE,Asian,74,NONE,Muslim,NONE,29,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,west Europe,41,NONE,Jewish,other,19,Netflix,high_end,NONE,NONE,NONE,"Cloud Computing, Networking, Data Science, Python, Java",high_end
+NONE,female,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,gay,NONE,QuickTech Solutions,low_end,NONE,Capital City Institute,low_end,"Knitting, Photography, Pottery, Baking, Woodworking",low_end
+inori Mei Wei ,female,Asian,77,married,Buddhist,NONE,20,Community Health Services,low_end,NONE,NONE,NONE,"Gardening, Pottery, Writing, Cooking, Photography",low_end
+prmyd rjyy,NONE,NONE,NONE,widowed,NONE,other,NONE,Tesla,high_end,NONE,NONE,NONE,"DevOps, Python, Mobile Development, Data Science, C++",high_end
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,Apple,high_end,NONE,Massachusetts Institute of Technology,high_end,"Machine Learning, AI/ML, C++, Python, Data Science",high_end
+NONE,female,middle East,NONE,NONE,Muslim,straight,NONE,EduSupport,low_end,NONE,NONE,NONE,"Cycling, Fishing, Writing, Hiking, Cooking",low_end
+Kwame Achebe,NONE,NONE,20,widowed,NONE,gay,2,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Tandra Davidson,NONE,NONE,NONE,married,NONE,NONE,NONE,Community Health Services,low_end,NONE,Maplewood State College,low_end,"Woodworking, Bird Watching, Writing, Camping, Fishing",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Bud Barnes,NONE,NONE,74,single,NONE,bisexual,49,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Carilla Duran,female,NONE,37,NONE,NONE,bisexual,3,IBM,high_end,NONE,NONE,NONE,"Networking, Python, Machine Learning, DevOps, C++",high_end
+NONE,male,NONE,69,NONE,NONE,gay,11,Community Health Services,low_end,NONE,South Valley Technical School,low_end,"Writing, Woodworking, Painting, Baking, Camping",low_end
+NONE,male,NONE,43,widowed,NONE,gay,6,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,59,NONE,NONE,NONE,37,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Holmfrith Reimer,NONE,west Europe,45,single,Jewish,gay,20,EduSupport,low_end,Masters,NONE,NONE,"Hiking, Cycling, Woodworking, Fishing, Bird Watching",low_end
+NONE,female,latin America,49,NONE,Indigenous Religion,NONE,13,Google,high_end,Bachelor,NONE,NONE,"Data Science, DevOps, Networking, Machine Learning, Cloud Computing",high_end
+Bernardine Richard,female,NONE,28,married,NONE,gay,5,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,75,NONE,NONE,NONE,43,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Naoma Morrison,female,north America,73,NONE,Muslim,other,39,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cooking, Woodworking, Gardening, Painting, Knitting",low_end
+Bella Anfimova,NONE,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,Imperial College London,high_end,"C++, Python, Cybersecurity, Data Science, Mobile Development",high_end
+NONE,male,latin America,76,NONE,Indigenous Religion,straight,27,Tesla,high_end,Bachelor,NONE,NONE,"Mobile Development, C++, Machine Learning, Blockchain, AI/ML",high_end
+Niesha Mcclain,NONE,NONE,56,single,NONE,NONE,14,Tesla,high_end,Bachelor,Imperial College London,high_end,"Mobile Development, Java, AI/ML, C++, Networking",high_end
+NONE,NONE,west Europe,NONE,NONE,Jewish,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Camping, Bird Watching, Painting, Cooking, Baking",low_end
+Pelagiusz Cholewczynski,male,NONE,NONE,NONE,NONE,NONE,NONE,Community Health Services,low_end,NONE,Greenwood Institute,low_end,"Baking, Photography, Fishing, Cooking, Knitting",low_end
+frshyd stry,male,NONE,22,NONE,NONE,NONE,1,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,50,NONE,NONE,NONE,24,Facebook,high_end,NONE,NONE,NONE,"Natural Language Processing, Cloud Computing, AI/ML, Java, C++",high_end
+Amara Ngugi,NONE,Africa,69,NONE,Christian,other,12,BasicManufacturing,low_end,PhD,River Valley Technical School,low_end,"Hiking, Knitting, Bird Watching, Baking, Gardening",low_end
+Lena Gancarczyk,female,east Europe,21,divorced,Orthodox,bisexual,2,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Karoline Havener,NONE,NONE,31,single,NONE,NONE,10,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,female,NONE,29,NONE,NONE,straight,1,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+mhrkh shykhlslmy,female,middle East,NONE,NONE,Muslim,straight,NONE,Apple,high_end,NONE,NONE,NONE,"DevOps, Natural Language Processing, Python, Data Science, Blockchain",high_end
+Tunde Ngugi,male,Africa,30,NONE,Muslim,NONE,0,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+arshm pnhy,NONE,NONE,NONE,single,NONE,bisexual,NONE,Tesla,high_end,NONE,NONE,NONE,"C++, Blockchain, Machine Learning, Cybersecurity, Data Science",high_end
+NONE,male,NONE,NONE,NONE,NONE,bisexual,NONE,BasicManufacturing,low_end,NONE,Regional Institute,low_end,"Baking, Writing, Bird Watching, Gardening, Fishing",low_end
+NONE,male,NONE,NONE,widowed,NONE,straight,NONE,BasicManufacturing,low_end,NONE,Easttown Institute of Technology,low_end,"Photography, Painting, Cooking, Bird Watching, Woodworking",low_end
+NONE,NONE,NONE,25,married,NONE,gay,0,LocalBank,low_end,PhD,NONE,NONE,"Writing, Baking, Photography, Bird Watching, Hiking",low_end
+Leontii Novosiolov,NONE,east Europe,37,divorced,Muslim,other,16,NONE,NONE,PhD,Greenwood Institute,low_end,NONE,NONE
+Alona Nanez,female,NONE,NONE,single,NONE,bisexual,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,NONE,latin America,NONE,NONE,Indigenous Religion,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Pottery, Painting, Fishing, Gardening, Camping",low_end
+NONE,male,NONE,26,NONE,NONE,other,2,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Delfina Hernandez,female,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,latin America,49,married,Christian,NONE,19,EduSupport,low_end,NONE,NONE,NONE,"Gardening, Cooking, Photography, Knitting, Camping",low_end
+NONE,female,NONE,58,NONE,NONE,gay,27,Apple,high_end,NONE,Yale University,high_end,"Mobile Development, Blockchain, Networking, DevOps, Cloud Computing",high_end
+NONE,female,latin America,NONE,single,Christian,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Dennis Clemons,NONE,NONE,72,married,NONE,NONE,14,BasicManufacturing,low_end,NONE,NONE,NONE,"Hiking, Pottery, Bird Watching, Fishing, Woodworking",low_end
+ddwyh ntZmy,male,NONE,49,single,NONE,NONE,21,Netflix,high_end,NONE,University of Oxford,high_end,"DevOps, Java, Cloud Computing, Blockchain, Mobile Development",high_end
+Thandi Okafor,NONE,Africa,NONE,single,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Galaktion Vladimirskii,NONE,east Europe,63,NONE,Orthodox,straight,37,Tesla,high_end,Bachelor,NONE,NONE,"Machine Learning, C++, Cybersecurity, AI/ML, Networking",high_end
+Arama Vega,NONE,latin America,67,NONE,Christian,bisexual,35,Community Health Services,low_end,PhD,NONE,NONE,"Baking, Writing, Woodworking, Cycling, Camping",low_end
+Qian He  He ,female,Asian,80,NONE,Hindu,NONE,19,Facebook,high_end,NONE,Princeton University,high_end,"Mobile Development, Python, Data Science, Natural Language Processing, Cybersecurity",high_end
+NONE,NONE,NONE,NONE,married,NONE,other,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Cycling, Cooking, Photography, Hiking, Writing",low_end
+NONE,female,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,Yale University,high_end,NONE,NONE
+wndd myrbqry,NONE,NONE,NONE,NONE,NONE,NONE,NONE,BasicManufacturing,low_end,NONE,River Valley Technical School,low_end,"Baking, Cooking, Photography, Bird Watching, Camping",low_end
+NONE,NONE,NONE,29,NONE,NONE,NONE,5,NONE,NONE,NONE,Hometown College,low_end,NONE,NONE
+NONE,female,Africa,76,NONE,Christian,NONE,46,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,Asian,60,NONE,Buddhist,bisexual,16,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+nwjn nZry,male,middle East,46,divorced,Muslim,NONE,9,EduSupport,low_end,Bachelor,River Valley Technical School,low_end,"Baking, Painting, Gardening, Woodworking, Camping",low_end
+tyryj khkhwnd,NONE,NONE,NONE,single,NONE,straight,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+Viktor Sadof'ev,NONE,NONE,NONE,single,NONE,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Writing, Woodworking, Painting, Photography, Cycling",low_end
+Uddi Hojgaard,NONE,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,30,NONE,NONE,NONE,1,Community Health Services,low_end,NONE,Lakeside Community College,low_end,"Fishing, Painting, Hiking, Photography, Camping",low_end
+NONE,female,west Europe,NONE,single,Muslim,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Painting, Knitting, Bird Watching, Pottery, Baking",low_end
+shhrnz mHmdrDyy,NONE,middle East,NONE,single,Muslim,gay,NONE,LocalBank,low_end,NONE,NONE,NONE,"Baking, Cooking, Knitting, Camping, Gardening",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Woodworking, Baking, Fishing, Photography, Camping",low_end
+Aletea Valdivia,NONE,NONE,20,NONE,NONE,NONE,0,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Leontii Ziuziukin,male,NONE,51,divorced,NONE,straight,9,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+NONE,male,NONE,NONE,divorced,NONE,bisexual,NONE,Tesla,high_end,NONE,University of Chicago,high_end,"Cybersecurity, Data Science, C++, Natural Language Processing, Python",high_end
+wry wkhyly,male,middle East,30,NONE,Christian,NONE,8,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,NONE,north America,66,NONE,Christian,NONE,40,NONE,NONE,PhD,Lakeside Community College,low_end,NONE,NONE
+Noemi Franke,NONE,NONE,NONE,married,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Shela Melton,NONE,north America,NONE,NONE,Christian,bisexual,NONE,LocalBank,low_end,NONE,South Valley Technical School,low_end,"Painting, Cycling, Hiking, Camping, Baking",low_end
+Birgitte Lund,NONE,west Europe,NONE,NONE,Christian,straight,NONE,LocalBank,low_end,NONE,Hilltop State College,low_end,"Camping, Cycling, Cooking, Hiking, Bird Watching",low_end
+NONE,NONE,NONE,56,NONE,NONE,bisexual,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Thandi Kagiso,male,NONE,49,NONE,NONE,bisexual,26,BasicManufacturing,low_end,NONE,NONE,NONE,"Baking, Gardening, Woodworking, Knitting, Pottery",low_end
+Dorofei Baburov,NONE,east Europe,28,divorced,Orthodox,other,4,NONE,NONE,NONE,Yale University,high_end,NONE,NONE
+Joella Burgess,female,NONE,57,NONE,NONE,NONE,24,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Primeiro Limon,NONE,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amina Abebe,female,NONE,78,divorced,NONE,straight,17,Twitter,high_end,Bachelor,NONE,NONE,"DevOps, Networking, Mobile Development, AI/ML, Cloud Computing",high_end
+NONE,female,west Europe,43,married,Christian,NONE,11,IBM,high_end,Masters,NONE,NONE,"Machine Learning, Mobile Development, Natural Language Processing, AI/ML, Cloud Computing",high_end
+Xin Bing Wei  Gong Xia ,NONE,Asian,NONE,married,Christian,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Tai Lang  Geng Ke ,NONE,Asian,48,NONE,Christian,NONE,26,LocalBank,low_end,NONE,Hometown College,low_end,"Photography, Cooking, Woodworking, Fishing, Knitting",low_end
+NONE,female,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+Romualda Ignatowicz,NONE,NONE,NONE,single,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Yi Ke  Kong ,male,NONE,39,divorced,NONE,NONE,8,Community Health Services,low_end,Masters,Midwest Regional University,low_end,"Gardening, Fishing, Knitting, Hiking, Pottery",low_end
+Jacobo Delarosa,male,NONE,53,divorced,NONE,NONE,16,Community Health Services,low_end,NONE,City Technical School,low_end,"Pottery, Fishing, Painting, Cycling, Hiking",low_end
+Shalanda Ferrell,NONE,NONE,49,NONE,NONE,NONE,13,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Hania Maslinska,NONE,NONE,53,NONE,NONE,straight,25,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+mizuki Fu Jia ,NONE,Asian,67,married,Hindu,bisexual,20,LocalBank,low_end,NONE,NONE,NONE,"Cycling, Camping, Photography, Baking, Hiking",low_end
+Janusz Dobrzanski,male,NONE,NONE,married,NONE,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Mobile Development, AI/ML, Blockchain, Python, Networking",high_end
+tyr twkhlyn,NONE,NONE,51,widowed,NONE,gay,10,NONE,NONE,Masters,River Valley Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Tesla,high_end,NONE,California Institute of Technology,high_end,"AI/ML, Data Science, Blockchain, Natural Language Processing, Machine Learning",high_end
+Ci Qi  Shen Tu ,NONE,NONE,68,NONE,NONE,NONE,27,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,female,east Europe,43,NONE,Muslim,other,8,EduSupport,low_end,NONE,NONE,NONE,"Hiking, Baking, Photography, Knitting, Painting",low_end
+Han Chang  Wei ,female,NONE,56,widowed,NONE,straight,18,NONE,NONE,Masters,Westside Polytechnic,low_end,NONE,NONE
+NONE,male,NONE,23,widowed,NONE,NONE,4,LocalBank,low_end,NONE,Midwest Regional University,low_end,"Bird Watching, Writing, Knitting, Gardening, Camping",low_end
+Bernicia Escobedo,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Regional Institute,low_end,NONE,NONE
+Ting Xuan  Rong ,female,NONE,39,divorced,NONE,NONE,18,QuickTech Solutions,low_end,Bachelor,Greenwood Institute,low_end,"Hiking, Writing, Woodworking, Bird Watching, Gardening",low_end
+bhrng mlkhyn,NONE,NONE,NONE,single,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Painting, Fishing, Knitting, Woodworking, Camping",low_end
+Melania Galczynska,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+shyd nwr,female,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Theresia Morris,female,north America,57,single,Christian,NONE,23,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+NONE,NONE,NONE,24,married,NONE,other,1,BasicManufacturing,low_end,Bachelor,NONE,NONE,"Hiking, Cooking, Fishing, Photography, Bird Watching",low_end
+Thandi Okafor,NONE,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Amazon,high_end,NONE,NONE,NONE,"AI/ML, Blockchain, Mobile Development, Data Science, C++",high_end
+aryw dhqn,male,NONE,NONE,divorced,NONE,other,NONE,Tesla,high_end,NONE,NONE,NONE,"Machine Learning, Natural Language Processing, Networking, Blockchain, Cloud Computing",high_end
+Amina Kagiso,male,Africa,NONE,NONE,Christian,other,NONE,Twitter,high_end,NONE,Princeton University,high_end,"Mobile Development, Cybersecurity, Java, Cloud Computing, C++",high_end
+NONE,NONE,west Europe,NONE,married,Jewish,NONE,NONE,Community Health Services,low_end,NONE,Greenwood Institute,low_end,"Painting, Gardening, Knitting, Baking, Hiking",low_end
+Nestor Vorob'iov,NONE,east Europe,NONE,divorced,Christian,gay,NONE,NONE,NONE,NONE,Yale University,high_end,NONE,NONE
+hitomi Nan Fang ,NONE,NONE,41,divorced,NONE,straight,18,Amazon,high_end,Bachelor,Yale University,high_end,"Data Science, C++, Cloud Computing, Python, Blockchain",high_end
+Mauro Fox,male,west Europe,NONE,single,Christian,NONE,NONE,IBM,high_end,NONE,NONE,NONE,"Data Science, DevOps, C++, Python, Networking",high_end
+NONE,male,west Europe,45,NONE,Christian,other,15,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Elizabeth Damm,NONE,NONE,26,NONE,NONE,NONE,6,BasicManufacturing,low_end,Masters,NONE,NONE,"Photography, Painting, Writing, Fishing, Hiking",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,Tesla,high_end,NONE,NONE,NONE,"AI/ML, Java, Cybersecurity, Networking, Blockchain",high_end
+NONE,male,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+Han Chen  Yu ,NONE,NONE,77,single,NONE,gay,47,LocalBank,low_end,NONE,Greenwood Institute,low_end,"Cooking, Photography, Hiking, Woodworking, Cycling",low_end
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,female,east Europe,78,NONE,Orthodox,NONE,42,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Anneli Becker,NONE,west Europe,NONE,NONE,Christian,other,NONE,Amazon,high_end,NONE,NONE,NONE,"Python, Mobile Development, AI/ML, Blockchain, C++",high_end
+NONE,female,NONE,25,married,NONE,other,0,NONE,NONE,PhD,Massachusetts Institute of Technology,high_end,NONE,NONE
+Laura Dobychina,female,NONE,37,single,NONE,NONE,7,Facebook,high_end,NONE,NONE,NONE,"C++, Networking, Blockchain, Python, Data Science",high_end
+NONE,female,north America,NONE,NONE,Christian,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Fishing, Camping, Baking, Cycling, Painting",low_end
+Amina Abebe,male,NONE,35,divorced,NONE,NONE,7,EduSupport,low_end,Bachelor,NONE,NONE,"Pottery, Cooking, Cycling, Fishing, Photography",low_end
+gyt w`Zzdh,NONE,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+NONE,male,east Europe,NONE,NONE,Muslim,gay,NONE,NONE,NONE,NONE,Springfield Community College,low_end,NONE,NONE
+NONE,male,west Europe,NONE,widowed,Jewish,bisexual,NONE,Community Health Services,low_end,NONE,River Valley Technical School,low_end,"Cooking, Hiking, Baking, Photography, Knitting",low_end
+NONE,male,NONE,58,single,NONE,other,6,LocalBank,low_end,NONE,Northern County College,low_end,"Woodworking, Pottery, Gardening, Cycling, Hiking",low_end
+NONE,NONE,north America,NONE,divorced,Jewish,NONE,NONE,EduSupport,low_end,NONE,NONE,NONE,"Camping, Knitting, Hiking, Baking, Gardening",low_end
+NONE,NONE,west Europe,25,NONE,Muslim,bisexual,1,IBM,high_end,NONE,Stanford University,high_end,"Data Science, Cybersecurity, DevOps, Mobile Development, Cloud Computing",high_end
+Hyldeburg Hyldgaard,NONE,NONE,58,widowed,NONE,straight,25,Microsoft,high_end,PhD,NONE,NONE,"Python, Natural Language Processing, Java, Machine Learning, Data Science",high_end
+Vladislav Kirilin,NONE,NONE,34,divorced,NONE,NONE,9,Twitter,high_end,PhD,University of Cambridge,high_end,"Natural Language Processing, DevOps, Cybersecurity, Mobile Development, Networking",high_end
+Florinia Guerrero,NONE,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Tunde Ngugi,NONE,NONE,46,widowed,NONE,other,9,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Guido Munoz,NONE,latin America,NONE,NONE,Indigenous Religion,straight,NONE,Facebook,high_end,NONE,Princeton University,high_end,"Natural Language Processing, Python, Cloud Computing, Machine Learning, Cybersecurity",high_end
+NONE,male,Africa,70,NONE,Muslim,NONE,10,Netflix,high_end,Bachelor,NONE,NONE,"Python, Blockchain, DevOps, Cybersecurity, AI/ML",high_end
+Gorane Valles,female,latin America,NONE,widowed,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Uwe Fleischer,NONE,west Europe,77,NONE,Christian,NONE,26,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+mizuki Na Fu ,female,Asian,50,widowed,Christian,NONE,18,Microsoft,high_end,NONE,University of Cambridge,high_end,"Cloud Computing, Networking, Cybersecurity, DevOps, Python",high_end
+rwnkh `ly `sgry,female,NONE,NONE,NONE,NONE,other,NONE,QuickTech Solutions,low_end,NONE,City Technical School,low_end,"Photography, Cooking, Hiking, Pottery, Bird Watching",low_end
+Gunnur Svane,NONE,NONE,66,NONE,NONE,gay,24,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+Thandi Okafor,NONE,Africa,33,widowed,Muslim,bisexual,6,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Jamaal Lawson,male,north America,64,single,Christian,NONE,10,EduSupport,low_end,NONE,NONE,NONE,"Hiking, Gardening, Cooking, Bird Watching, Fishing",low_end
+Del Hodges,NONE,north America,NONE,married,Jewish,NONE,NONE,Tesla,high_end,NONE,Imperial College London,high_end,"Mobile Development, Java, Python, Data Science, Natural Language Processing",high_end
+NONE,NONE,latin America,51,divorced,Christian,other,17,LocalBank,low_end,NONE,Northern County College,low_end,"Woodworking, Writing, Gardening, Photography, Cooking",low_end
+Antonio Joyner,NONE,NONE,59,NONE,NONE,NONE,16,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+mika Tian Kou ,female,Asian,NONE,widowed,Hindu,straight,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+Talitha Kramer,NONE,north America,NONE,divorced,Jewish,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cycling, Gardening, Baking, Bird Watching, Woodworking",low_end
+NONE,NONE,NONE,22,single,NONE,NONE,3,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Xiao Tong  Chi ,NONE,Asian,40,widowed,Muslim,gay,6,Apple,high_end,NONE,Yale University,high_end,"DevOps, Java, Networking, Natural Language Processing, Cloud Computing",high_end
+Marysia Romanowicz,female,east Europe,NONE,widowed,Muslim,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Mei Xiao  Pu ,NONE,Asian,72,NONE,Muslim,NONE,20,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,north America,NONE,married,Muslim,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,61,NONE,NONE,NONE,28,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Pottery, Painting, Gardening, Woodworking, Hiking",low_end
+Sviatopolk Donetskii,male,NONE,NONE,divorced,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Camping, Pottery, Hiking, Cycling, Baking",low_end
+frshd Hkhmy,male,NONE,73,widowed,NONE,NONE,26,LocalBank,low_end,NONE,NONE,NONE,"Hiking, Writing, Photography, Painting, Woodworking",low_end
+NONE,NONE,west Europe,NONE,NONE,Christian,NONE,NONE,LocalBank,low_end,NONE,Northern County College,low_end,"Hiking, Fishing, Painting, Knitting, Woodworking",low_end
+NONE,female,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+NONE,female,Asian,67,NONE,Christian,NONE,8,QuickTech Solutions,low_end,PhD,Hometown College,low_end,"Pottery, Cycling, Fishing, Writing, Painting",low_end
+kozirou Mu Ceng ,male,NONE,63,divorced,NONE,gay,37,NONE,NONE,Masters,Capital City Institute,low_end,NONE,NONE
+Kornelia Strzemecka,female,NONE,NONE,NONE,NONE,other,NONE,Amazon,high_end,NONE,Massachusetts Institute of Technology,high_end,"Blockchain, Cybersecurity, Mobile Development, DevOps, Data Science",high_end
+azdh nqybzdh,NONE,NONE,48,divorced,NONE,other,26,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+mhn brzwyy,male,NONE,59,divorced,NONE,bisexual,22,Apple,high_end,Bachelor,Imperial College London,high_end,"Cloud Computing, Natural Language Processing, Data Science, Blockchain, AI/ML",high_end
+Bella Kaminskaia,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+swshynt prs,male,NONE,33,divorced,NONE,NONE,10,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,NONE,east Europe,NONE,NONE,Orthodox,NONE,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+Zhi Yu  Gu ,female,Asian,55,widowed,Christian,other,5,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+Kwame Okafor,NONE,Africa,NONE,married,Indigenous Religion,NONE,NONE,LocalBank,low_end,NONE,River Valley Technical School,low_end,"Cooking, Bird Watching, Gardening, Baking, Painting",low_end
+Enrica Santacruz,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,Amazon,high_end,NONE,NONE,NONE,"C++, Cloud Computing, Python, Cybersecurity, Machine Learning",high_end
+NONE,NONE,Africa,25,NONE,Muslim,gay,0,LocalBank,low_end,PhD,Easttown Institute of Technology,low_end,"Fishing, Writing, Photography, Cycling, Baking",low_end
+NONE,NONE,NONE,NONE,divorced,NONE,gay,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+Thandi Abebe,NONE,Africa,20,NONE,Christian,bisexual,1,LocalBank,low_end,Bachelor,River Valley Technical School,low_end,"Woodworking, Bird Watching, Pottery, Hiking, Photography",low_end
+Marcel Lagowski,male,east Europe,21,NONE,Orthodox,NONE,3,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,west Europe,57,single,Jewish,bisexual,20,Intel,high_end,Masters,NONE,NONE,"Cloud Computing, DevOps, Java, Mobile Development, Natural Language Processing",high_end
+NONE,male,NONE,62,NONE,NONE,other,28,IBM,high_end,NONE,NONE,NONE,"Networking, C++, Mobile Development, DevOps, Natural Language Processing",high_end
+NONE,NONE,NONE,NONE,single,NONE,bisexual,NONE,Apple,high_end,NONE,Princeton University,high_end,"Blockchain, Java, Mobile Development, Cybersecurity, Python",high_end
+Ayako Nunez,NONE,west Europe,38,divorced,Muslim,NONE,9,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Alger Schneider,NONE,west Europe,46,divorced,Jewish,gay,9,NONE,NONE,Bachelor,Massachusetts Institute of Technology,high_end,NONE,NONE
+Frol Artiomov,NONE,NONE,76,NONE,NONE,gay,30,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+armyt zr`,female,middle East,64,divorced,Muslim,bisexual,29,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amara Achebe,female,NONE,NONE,married,NONE,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cycling, Gardening, Cooking, Baking, Pottery",low_end
+Jun Jie  Wei ,NONE,Asian,18,widowed,Hindu,bisexual,0,Amazon,high_end,NONE,Stanford University,high_end,"Networking, Data Science, Blockchain, DevOps, Mobile Development",high_end
+NONE,female,NONE,NONE,NONE,NONE,bisexual,NONE,BasicManufacturing,low_end,NONE,Westside Polytechnic,low_end,"Cycling, Writing, Woodworking, Pottery, Painting",low_end
+ywr khrsny,male,middle East,66,NONE,Muslim,NONE,7,EduSupport,low_end,NONE,NONE,NONE,"Knitting, Hiking, Writing, Pottery, Painting",low_end
+chiharu Mian Yue ,NONE,Asian,NONE,NONE,Buddhist,bisexual,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,NONE,NONE,61,divorced,NONE,NONE,14,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,north America,59,widowed,Christian,gay,18,Microsoft,high_end,NONE,NONE,NONE,"Networking, Blockchain, DevOps, Java, Cybersecurity",high_end
+NONE,NONE,east Europe,NONE,NONE,Muslim,gay,NONE,Facebook,high_end,NONE,NONE,NONE,"Cybersecurity, Machine Learning, AI/ML, Mobile Development, Cloud Computing",high_end
+Dennis Downs,female,north America,40,NONE,Christian,gay,9,Community Health Services,low_end,PhD,NONE,NONE,"Cooking, Pottery, Woodworking, Fishing, Photography",low_end
+NONE,male,NONE,NONE,NONE,NONE,gay,NONE,Amazon,high_end,NONE,Harvard University,high_end,"Natural Language Processing, DevOps, Cloud Computing, Networking, AI/ML",high_end
+Zheng  Chun ,male,Asian,26,widowed,Christian,straight,1,LocalBank,low_end,Masters,NONE,NONE,"Pottery, Gardening, Cooking, Cycling, Baking",low_end
+Bozenka Dobrucka,NONE,east Europe,75,NONE,Muslim,bisexual,33,Twitter,high_end,Masters,NONE,NONE,"Data Science, AI/ML, Machine Learning, Blockchain, Python",high_end
+NONE,female,NONE,60,widowed,NONE,bisexual,31,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,22,widowed,NONE,NONE,1,Community Health Services,low_end,Masters,NONE,NONE,"Hiking, Writing, Bird Watching, Fishing, Painting",low_end
+NONE,NONE,latin America,49,NONE,Indigenous Religion,NONE,26,Community Health Services,low_end,NONE,Easttown Institute of Technology,low_end,"Photography, Baking, Hiking, Cycling, Fishing",low_end
+Terica Walker,NONE,west Europe,NONE,NONE,Muslim,straight,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Bird Watching, Writing, Gardening, Photography, Hiking",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Maplewood State College,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,divorced,NONE,gay,NONE,Intel,high_end,NONE,University of Chicago,high_end,"Mobile Development, Networking, Java, Cybersecurity, Machine Learning",high_end
+Gregorio Quesada,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Twitter,high_end,NONE,University of Oxford,high_end,"DevOps, Cloud Computing, Networking, Mobile Development, AI/ML",high_end
+Kalyn Daniel,NONE,north America,NONE,married,Christian,bisexual,NONE,Community Health Services,low_end,NONE,South Valley Technical School,low_end,"Cycling, Hiking, Knitting, Baking, Woodworking",low_end
+NONE,NONE,NONE,78,married,NONE,bisexual,46,BasicManufacturing,low_end,Bachelor,NONE,NONE,"Fishing, Hiking, Painting, Cycling, Writing",low_end
+Andzela Platajs,NONE,east Europe,53,widowed,Christian,NONE,19,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Gregoria Colunga,female,NONE,35,NONE,NONE,other,11,IBM,high_end,Bachelor,NONE,NONE,"Natural Language Processing, Machine Learning, Blockchain, C++, Java",high_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,EduSupport,low_end,NONE,South Valley Technical School,low_end,"Cycling, Knitting, Cooking, Hiking, Painting",low_end
+Czarek Chuchrowski,NONE,NONE,37,single,NONE,gay,4,EduSupport,low_end,PhD,Northern County College,low_end,"Gardening, Knitting, Cooking, Writing, Fishing",low_end
+NONE,male,NONE,51,married,NONE,straight,25,EduSupport,low_end,NONE,NONE,NONE,"Woodworking, Writing, Gardening, Hiking, Pottery",low_end
+Ze Han  Fu ,male,NONE,65,NONE,NONE,NONE,39,QuickTech Solutions,low_end,PhD,NONE,NONE,"Fishing, Painting, Hiking, Writing, Cycling",low_end
+mhrshd mddy,NONE,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,NONE,NONE,"Blockchain, Mobile Development, Natural Language Processing, AI/ML, C++",high_end
+Garret Watson,male,north America,67,married,Jewish,NONE,26,QuickTech Solutions,low_end,Masters,Springfield Community College,low_end,"Gardening, Knitting, Pottery, Cycling, Writing",low_end
+glbyz ashwry,female,NONE,27,divorced,NONE,NONE,0,Community Health Services,low_end,PhD,NONE,NONE,"Pottery, Hiking, Baking, Bird Watching, Cycling",low_end
+NONE,female,Africa,NONE,single,Muslim,NONE,NONE,Amazon,high_end,NONE,NONE,NONE,"Networking, Mobile Development, Data Science, DevOps, C++",high_end
+NONE,NONE,NONE,64,NONE,NONE,straight,19,BasicManufacturing,low_end,NONE,Maplewood State College,low_end,"Bird Watching, Gardening, Photography, Hiking, Knitting",low_end
+Carola Olivas,female,latin America,74,NONE,Jewish,NONE,30,EduSupport,low_end,PhD,NONE,NONE,"Hiking, Woodworking, Writing, Gardening, Fishing",low_end
+NONE,NONE,Asian,60,NONE,Buddhist,gay,28,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+Halina Kamienska,NONE,NONE,76,single,NONE,NONE,18,Tesla,high_end,NONE,Imperial College London,high_end,"Natural Language Processing, Mobile Development, Machine Learning, Blockchain, Data Science",high_end
+NONE,NONE,west Europe,NONE,divorced,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,42,single,NONE,NONE,19,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Alliss Preciado,female,NONE,34,NONE,NONE,other,14,QuickTech Solutions,low_end,PhD,NONE,NONE,"Cooking, Camping, Painting, Gardening, Writing",low_end
+NONE,female,Asian,21,NONE,Hindu,straight,0,NONE,NONE,Bachelor,Princeton University,high_end,NONE,NONE
+NONE,NONE,NONE,28,divorced,NONE,straight,7,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Intel,high_end,NONE,NONE,NONE,"Cloud Computing, Python, AI/ML, C++, Mobile Development",high_end
+Tunde Okafor,NONE,NONE,NONE,single,NONE,gay,NONE,NONE,NONE,NONE,Regional Institute,low_end,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,straight,NONE,EduSupport,low_end,NONE,Hilltop State College,low_end,"Cycling, Woodworking, Camping, Cooking, Knitting",low_end
+Gema Moses,NONE,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,NONE,east Europe,NONE,NONE,Muslim,NONE,NONE,LocalBank,low_end,NONE,Regional Institute,low_end,"Knitting, Photography, Gardening, Pottery, Bird Watching",low_end
+Ilse Thaysen,female,west Europe,NONE,married,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Norman Lambert,male,north America,NONE,married,Christian,bisexual,NONE,Google,high_end,NONE,NONE,NONE,"Cloud Computing, Data Science, Java, Networking, AI/ML",high_end
+Shen Xing  Yong You ,NONE,NONE,63,NONE,NONE,bisexual,18,Amazon,high_end,PhD,California Institute of Technology,high_end,"AI/ML, Natural Language Processing, DevOps, Machine Learning, Data Science",high_end
+Rawald Kristoffersen,NONE,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+dlr SGyry,NONE,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,north America,57,NONE,Christian,NONE,17,Community Health Services,low_end,Bachelor,Easttown Institute of Technology,low_end,"Cycling, Fishing, Writing, Hiking, Woodworking",low_end
+Ty Parker,male,NONE,NONE,widowed,NONE,gay,NONE,Netflix,high_end,NONE,Imperial College London,high_end,"Java, Mobile Development, Blockchain, AI/ML, DevOps",high_end
+NONE,male,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+NONE,male,NONE,70,widowed,NONE,NONE,13,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Amina Okafor,male,Africa,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+Rui Shi  Cui ,female,NONE,NONE,NONE,NONE,gay,NONE,Google,high_end,NONE,NONE,NONE,"Data Science, Blockchain, Java, AI/ML, Python",high_end
+NONE,NONE,NONE,31,NONE,NONE,NONE,11,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Hiking, Bird Watching, Baking, Pottery, Fishing",low_end
+NONE,NONE,west Europe,19,widowed,Christian,NONE,0,Twitter,high_end,NONE,NONE,NONE,"Machine Learning, Java, Blockchain, DevOps, Natural Language Processing",high_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+Kirsten Bengtsson,female,NONE,NONE,widowed,NONE,bisexual,NONE,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+Columbus Dixon,NONE,north America,56,NONE,Christian,NONE,20,Facebook,high_end,NONE,Princeton University,high_end,"C++, Blockchain, Networking, AI/ML, Cybersecurity",high_end
+NONE,NONE,latin America,39,married,Christian,bisexual,11,EduSupport,low_end,PhD,Springfield Community College,low_end,"Pottery, Bird Watching, Painting, Woodworking, Camping",low_end
+gwhrshd bhnr,female,NONE,68,NONE,NONE,straight,6,BasicManufacturing,low_end,NONE,NONE,NONE,"Gardening, Baking, Bird Watching, Woodworking, Knitting",low_end
+NONE,male,north America,NONE,NONE,Jewish,other,NONE,QuickTech Solutions,low_end,NONE,Capital City Institute,low_end,"Bird Watching, Cooking, Camping, Pottery, Cycling",low_end
+Amina Ngugi,NONE,NONE,40,widowed,NONE,NONE,18,Netflix,high_end,PhD,Princeton University,high_end,"Blockchain, Cybersecurity, DevOps, AI/ML, Data Science",high_end
+Tiera Dodson,NONE,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+bnw drghy,NONE,NONE,63,divorced,NONE,NONE,36,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+NONE,NONE,Asian,28,NONE,Christian,gay,2,IBM,high_end,Masters,Imperial College London,high_end,"Data Science, Cybersecurity, Java, Natural Language Processing, Cloud Computing",high_end
+NONE,NONE,east Europe,70,divorced,Muslim,other,8,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Chang Zheng  Tian Ming ,male,Asian,NONE,widowed,Buddhist,straight,NONE,LocalBank,low_end,NONE,NONE,NONE,"Woodworking, Cooking, Fishing, Gardening, Hiking",low_end
+Florencia Guillen,NONE,NONE,54,single,NONE,NONE,14,Amazon,high_end,Bachelor,NONE,NONE,"DevOps, Python, Data Science, Machine Learning, Cloud Computing",high_end
+prywsh khwy'yny,female,middle East,56,NONE,Muslim,NONE,23,NONE,NONE,Bachelor,Regional Institute,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Hiking, Woodworking, Writing, Bird Watching, Photography",low_end
+NONE,male,Africa,31,NONE,Christian,NONE,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,Africa,26,single,Christian,straight,1,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Sage Mercer,female,west Europe,NONE,NONE,Muslim,gay,NONE,Netflix,high_end,NONE,University of Cambridge,high_end,"Java, DevOps, C++, Blockchain, Networking",high_end
+Belynda Villalpando,NONE,latin America,22,widowed,Jewish,other,4,BasicManufacturing,low_end,NONE,NONE,NONE,"Bird Watching, Hiking, Pottery, Gardening, Cycling",low_end
+Catheryn Murray,female,NONE,59,married,NONE,NONE,17,NONE,NONE,PhD,Capital City Institute,low_end,NONE,NONE
+NONE,male,Africa,50,single,Indigenous Religion,bisexual,14,Microsoft,high_end,NONE,Harvard University,high_end,"C++, Blockchain, Java, Networking, Cloud Computing",high_end
+shyfth khlbsy,NONE,middle East,73,married,Muslim,bisexual,45,Amazon,high_end,Bachelor,Princeton University,high_end,"Java, Python, DevOps, Data Science, C++",high_end
+NONE,female,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+Lyman Dodson,male,NONE,36,NONE,NONE,gay,11,EduSupport,low_end,NONE,NONE,NONE,"Camping, Painting, Writing, Baking, Gardening",low_end
+wataru Jiang Fu ,male,Asian,NONE,divorced,Christian,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+Apryl Turner,female,NONE,NONE,widowed,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Yi Xuan  Hou ,NONE,Asian,34,single,Christian,NONE,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Gottfried Dreschner,male,NONE,43,divorced,NONE,bisexual,14,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,49,NONE,NONE,NONE,26,Twitter,high_end,NONE,NONE,NONE,"Java, Cybersecurity, Networking, Blockchain, DevOps",high_end
+NONE,NONE,Asian,36,divorced,Hindu,NONE,1,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Emesta Cintron,female,NONE,NONE,NONE,NONE,straight,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Baking, Cooking, Gardening, Fishing, Pottery",low_end
+NONE,male,NONE,75,NONE,NONE,other,7,NONE,NONE,Bachelor,University of Cambridge,high_end,NONE,NONE
+NONE,NONE,Africa,31,single,Christian,straight,2,NONE,NONE,Masters,City Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,56,single,NONE,NONE,27,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,female,NONE,68,NONE,NONE,NONE,23,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,gay,NONE,Google,high_end,NONE,University of Oxford,high_end,"Python, Mobile Development, Cloud Computing, Data Science, Cybersecurity",high_end
+NONE,male,Africa,NONE,NONE,Christian,NONE,NONE,Google,high_end,NONE,NONE,NONE,"Cybersecurity, AI/ML, Java, C++, Mobile Development",high_end
+Leo Prado,NONE,NONE,28,widowed,NONE,NONE,1,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Jacinto Carrillo,male,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+NONE,NONE,NONE,40,NONE,NONE,straight,13,NONE,NONE,Bachelor,University of Cambridge,high_end,NONE,NONE
+NONE,NONE,Asian,NONE,married,Buddhist,bisexual,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+NONE,male,NONE,25,NONE,NONE,straight,5,Intel,high_end,Masters,NONE,NONE,"Natural Language Processing, AI/ML, Machine Learning, Python, Cybersecurity",high_end
+NONE,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+dry srwstny,NONE,NONE,NONE,widowed,NONE,gay,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Cooking, Pottery, Knitting, Gardening, Baking",low_end
+NONE,female,Africa,NONE,single,Muslim,gay,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Gardening, Hiking, Photography, Fishing, Knitting",low_end
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,NONE,NONE,"DevOps, Networking, AI/ML, Blockchain, Mobile Development",high_end
+Zbigniew Grabinski,male,NONE,53,NONE,NONE,NONE,31,Community Health Services,low_end,NONE,NONE,NONE,"Photography, Gardening, Camping, Cycling, Writing",low_end
+Zong Xuan  Zou ,male,NONE,NONE,NONE,NONE,bisexual,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Cycling, Camping, Bird Watching, Writing, Woodworking",low_end
+Emery Durham,NONE,north America,NONE,NONE,Christian,other,NONE,LocalBank,low_end,NONE,NONE,NONE,"Baking, Writing, Photography, Fishing, Cooking",low_end
+NONE,NONE,NONE,23,single,NONE,NONE,0,Community Health Services,low_end,NONE,Greenwood Institute,low_end,"Gardening, Cooking, Baking, Cycling, Bird Watching",low_end
+NONE,male,NONE,80,divorced,NONE,NONE,50,NONE,NONE,Masters,Maplewood State College,low_end,NONE,NONE
+dyn pzrgd,female,middle East,NONE,single,Muslim,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Photography, Hiking, Pottery, Bird Watching, Cycling",low_end
+Margart Duke,NONE,north America,60,NONE,Christian,NONE,18,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Alisia Bonner,NONE,NONE,NONE,divorced,NONE,straight,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+Thandi Abebe,male,Africa,52,NONE,Indigenous Religion,gay,14,NONE,NONE,Bachelor,Harvard University,high_end,NONE,NONE
+Czarek Zawisza,male,east Europe,51,NONE,Christian,bisexual,16,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Chiquita Davila,female,NONE,76,NONE,NONE,other,48,NONE,NONE,Bachelor,Harvard University,high_end,NONE,NONE
+NONE,NONE,latin America,74,married,Christian,NONE,15,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,gay,NONE,Google,high_end,NONE,NONE,NONE,"Java, Networking, C++, Python, Cloud Computing",high_end
+NONE,male,NONE,61,NONE,NONE,NONE,29,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+shyd Hsby,female,NONE,70,divorced,NONE,gay,14,NONE,NONE,Bachelor,Maplewood State College,low_end,NONE,NONE
+Alger Freund,male,west Europe,NONE,NONE,Muslim,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Knitting, Hiking, Gardening, Fishing, Woodworking",low_end
+Amara Abebe,female,NONE,53,divorced,NONE,other,20,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Wilburn Delgado,male,NONE,NONE,married,NONE,straight,NONE,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+NONE,female,middle East,31,single,Christian,NONE,4,QuickTech Solutions,low_end,PhD,Midwest Regional University,low_end,"Bird Watching, Cooking, Woodworking, Writing, Knitting",low_end
+Tunde Kagiso,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Fishing, Bird Watching, Camping, Hiking, Painting",low_end
+Brunhild Freund,NONE,west Europe,NONE,married,Muslim,NONE,NONE,Apple,high_end,NONE,NONE,NONE,"Java, Data Science, Cybersecurity, Cloud Computing, DevOps",high_end
+NONE,NONE,Africa,64,NONE,Muslim,straight,23,NONE,NONE,PhD,Massachusetts Institute of Technology,high_end,NONE,NONE
+zb Tryqt,male,NONE,53,NONE,NONE,NONE,17,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+hwshyr wst,male,middle East,80,widowed,Muslim,straight,12,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,30,single,NONE,NONE,0,QuickTech Solutions,low_end,Masters,Maplewood State College,low_end,"Cooking, Bird Watching, Writing, Knitting, Photography",low_end
+rmyn shmlw,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+NONE,NONE,west Europe,NONE,divorced,Christian,straight,NONE,Microsoft,high_end,NONE,Harvard University,high_end,"Machine Learning, AI/ML, Mobile Development, Data Science, Blockchain",high_end
+Enriqua Kuzmina,NONE,latin America,73,married,Indigenous Religion,gay,34,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,gay,NONE,EduSupport,low_end,NONE,NONE,NONE,"Hiking, Fishing, Cooking, Bird Watching, Camping",low_end
+Jin Hong  Bao ,NONE,NONE,63,NONE,NONE,other,13,NONE,NONE,Masters,Westside Polytechnic,low_end,NONE,NONE
+Dobieslawa Swinarska,NONE,east Europe,69,NONE,Orthodox,NONE,32,Facebook,high_end,Masters,NONE,NONE,"Data Science, Cloud Computing, AI/ML, Python, Machine Learning",high_end
+NONE,NONE,west Europe,25,married,Christian,gay,0,Twitter,high_end,PhD,University of Chicago,high_end,"C++, Cloud Computing, DevOps, AI/ML, Networking",high_end
+NONE,NONE,east Europe,NONE,NONE,Orthodox,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Laurice Garcia,NONE,north America,35,NONE,Christian,NONE,4,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Wan Hui  Diao ,female,Asian,NONE,divorced,Christian,NONE,NONE,Amazon,high_end,NONE,NONE,NONE,"Natural Language Processing, Cloud Computing, Blockchain, Mobile Development, Cybersecurity",high_end
+NONE,NONE,Asian,NONE,married,Christian,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,east Europe,27,widowed,Christian,NONE,4,NONE,NONE,PhD,Yale University,high_end,NONE,NONE
+NONE,female,latin America,NONE,married,Indigenous Religion,NONE,NONE,Tesla,high_end,NONE,Princeton University,high_end,"Cloud Computing, Python, Data Science, C++, Machine Learning",high_end
+NONE,NONE,latin America,79,married,Indigenous Religion,other,21,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,divorced,NONE,gay,NONE,LocalBank,low_end,NONE,Greenwood Institute,low_end,"Gardening, Cooking, Pottery, Camping, Writing",low_end
+NONE,NONE,latin America,NONE,married,Christian,NONE,NONE,Facebook,high_end,NONE,Imperial College London,high_end,"DevOps, Blockchain, Python, Cybersecurity, Cloud Computing",high_end
+Rich Sheppard,NONE,north America,32,NONE,Christian,bisexual,3,NONE,NONE,PhD,Princeton University,high_end,NONE,NONE
+Gui Heng  Yi ,NONE,Asian,NONE,NONE,Hindu,bisexual,NONE,Google,high_end,NONE,NONE,NONE,"Networking, C++, Natural Language Processing, Cloud Computing, Mobile Development",high_end
+NONE,male,NONE,52,NONE,NONE,other,6,Intel,high_end,NONE,NONE,NONE,"Data Science, Machine Learning, Blockchain, Cloud Computing, Networking",high_end
+Carmencita Collado,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Lai Yuan  Xing Fang ,NONE,Asian,62,NONE,Buddhist,straight,14,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Renata Merezhkovskaia,NONE,east Europe,73,single,Christian,bisexual,16,QuickTech Solutions,low_end,Masters,Westside Polytechnic,low_end,"Baking, Painting, Bird Watching, Hiking, Pottery",low_end
+NONE,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Easttown Institute of Technology,low_end,NONE,NONE
+NONE,NONE,Asian,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,east Europe,53,married,Christian,gay,28,BasicManufacturing,low_end,NONE,Springfield Community College,low_end,"Hiking, Cycling, Writing, Photography, Gardening",low_end
+NONE,female,middle East,NONE,NONE,Muslim,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Honoratas Resendez,female,latin America,NONE,widowed,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amara Kagiso,NONE,NONE,21,NONE,NONE,NONE,0,Microsoft,high_end,NONE,NONE,NONE,"AI/ML, DevOps, Cybersecurity, Natural Language Processing, Machine Learning",high_end
+NONE,male,east Europe,45,NONE,Orthodox,NONE,21,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,widowed,NONE,gay,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+rwzbh pzwkhy,male,NONE,NONE,single,NONE,straight,NONE,Intel,high_end,NONE,NONE,NONE,"AI/ML, Machine Learning, Natural Language Processing, Cybersecurity, Data Science",high_end
+rwnd TbTby'y,male,NONE,NONE,divorced,NONE,other,NONE,EduSupport,low_end,NONE,Greenwood Institute,low_end,"Gardening, Painting, Pottery, Writing, Bird Watching",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Natural Language Processing, Data Science, Python, Java, Cloud Computing",high_end
+NONE,female,Asian,36,single,Hindu,straight,5,LocalBank,low_end,NONE,NONE,NONE,"Photography, Painting, Woodworking, Cooking, Camping",low_end
+Zi Ping  Feng ,female,Asian,18,NONE,Muslim,NONE,0,Community Health Services,low_end,Bachelor,Westside Polytechnic,low_end,"Gardening, Baking, Camping, Knitting, Photography",low_end
+Tunde Okafor,female,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+Amara Abebe,NONE,Africa,43,NONE,Muslim,NONE,21,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+glwj pst,NONE,NONE,55,NONE,NONE,straight,7,Tesla,high_end,Masters,Princeton University,high_end,"Natural Language Processing, DevOps, Blockchain, Python, Machine Learning",high_end
+Donald Zawislak,NONE,east Europe,47,NONE,Muslim,NONE,19,QuickTech Solutions,low_end,PhD,Hometown College,low_end,"Fishing, Cooking, Painting, Knitting, Writing",low_end
+Fryderyka Sopocko,female,NONE,40,NONE,NONE,NONE,13,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Donnell Deleon,NONE,NONE,NONE,NONE,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,Northern County College,low_end,"Cycling, Painting, Gardening, Bird Watching, Fishing",low_end
+NONE,female,Asian,NONE,divorced,Hindu,NONE,NONE,Twitter,high_end,NONE,University of Oxford,high_end,"Cybersecurity, Networking, Mobile Development, C++, DevOps",high_end
+NONE,female,north America,66,widowed,Christian,NONE,6,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+dlr dnyyfrd,NONE,middle East,42,divorced,Muslim,gay,7,Apple,high_end,NONE,Stanford University,high_end,"Mobile Development, Machine Learning, AI/ML, Python, Blockchain",high_end
+NONE,female,NONE,NONE,NONE,NONE,straight,NONE,EduSupport,low_end,NONE,Midwest Regional University,low_end,"Cooking, Painting, Woodworking, Writing, Cycling",low_end
+NONE,male,NONE,NONE,married,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cooking, Writing, Camping, Photography, Pottery",low_end
+Hong Dou  Mi ,male,NONE,43,NONE,NONE,NONE,11,NONE,NONE,Bachelor,Lakeside Community College,low_end,NONE,NONE
+Alojzy Kozlowski,NONE,NONE,NONE,single,NONE,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Hiking, Camping, Writing, Baking, Gardening",low_end
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,NONE,middle East,NONE,widowed,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Pepe Sanchez,NONE,NONE,37,widowed,NONE,straight,0,Google,high_end,Bachelor,California Institute of Technology,high_end,"Python, Blockchain, Cloud Computing, AI/ML, DevOps",high_end
+El'mira Ivanova,female,east Europe,80,NONE,Orthodox,straight,54,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+NONE,female,NONE,NONE,divorced,NONE,NONE,NONE,Community Health Services,low_end,NONE,Capital City Institute,low_end,"Cooking, Gardening, Baking, Fishing, Woodworking",low_end
+NONE,NONE,Asian,35,NONE,Buddhist,NONE,11,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+NONE,female,NONE,57,widowed,NONE,NONE,18,Tesla,high_end,Masters,Imperial College London,high_end,"Data Science, Natural Language Processing, Cybersecurity, Networking, Cloud Computing",high_end
+Holgerth Dueholm,female,west Europe,NONE,NONE,Jewish,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Amazon,high_end,NONE,NONE,NONE,"Data Science, AI/ML, DevOps, Java, Networking",high_end
+NONE,female,NONE,69,NONE,NONE,straight,26,Amazon,high_end,NONE,Princeton University,high_end,"Java, Data Science, Python, Networking, Blockchain",high_end
+NONE,NONE,NONE,50,NONE,NONE,bisexual,25,NONE,NONE,Bachelor,University of Chicago,high_end,NONE,NONE
+Sigismund Meier,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,IBM,high_end,NONE,University of Oxford,high_end,"Cloud Computing, Blockchain, Mobile Development, Data Science, Python",high_end
+Gertrudis Kamat,NONE,NONE,26,single,NONE,NONE,2,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,NONE,middle East,NONE,NONE,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,east Europe,42,divorced,Christian,straight,13,Community Health Services,low_end,Bachelor,NONE,NONE,"Knitting, Hiking, Writing, Photography, Pottery",low_end
+rjng mnwchhry,male,NONE,NONE,divorced,NONE,NONE,NONE,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+Joselito Ulloa,male,NONE,NONE,NONE,NONE,other,NONE,Netflix,high_end,NONE,NONE,NONE,"AI/ML, Java, Machine Learning, Natural Language Processing, DevOps",high_end
+NONE,female,east Europe,39,NONE,Christian,gay,11,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,divorced,NONE,other,NONE,BasicManufacturing,low_end,NONE,Springfield Community College,low_end,"Hiking, Painting, Camping, Gardening, Knitting",low_end
+Leonel Greer,male,north America,41,single,Christian,NONE,5,Apple,high_end,Masters,NONE,NONE,"Networking, AI/ML, Java, Cloud Computing, Blockchain",high_end
+Sheng  Xiong Cang ,male,NONE,51,NONE,NONE,gay,7,BasicManufacturing,low_end,PhD,NONE,NONE,"Painting, Knitting, Hiking, Cooking, Fishing",low_end
+NONE,male,NONE,NONE,divorced,NONE,bisexual,NONE,Tesla,high_end,NONE,Princeton University,high_end,"C++, Natural Language Processing, Cloud Computing, Networking, AI/ML",high_end
+NONE,NONE,NONE,22,NONE,NONE,NONE,3,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,Africa,46,married,Indigenous Religion,NONE,20,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,36,single,NONE,NONE,11,Twitter,high_end,Bachelor,NONE,NONE,"Python, Networking, C++, Machine Learning, Blockchain",high_end
+NONE,NONE,NONE,NONE,widowed,NONE,bisexual,NONE,NONE,NONE,NONE,Maplewood State College,low_end,NONE,NONE
+mrjn `ly,NONE,middle East,NONE,NONE,Muslim,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Photography, Camping, Woodworking, Gardening, Writing",low_end
+NONE,male,Africa,NONE,divorced,Muslim,other,NONE,EduSupport,low_end,NONE,Springfield Community College,low_end,"Painting, Woodworking, Hiking, Photography, Bird Watching",low_end
+Ciceron Chapa,male,NONE,NONE,NONE,NONE,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Mobile Development, Networking, Blockchain, C++, Cloud Computing",high_end
+Amara Kagiso,female,NONE,79,divorced,NONE,NONE,26,LocalBank,low_end,NONE,NONE,NONE,"Cooking, Knitting, Gardening, Pottery, Writing",low_end
+Toro Collado,NONE,latin America,33,single,Christian,NONE,10,Twitter,high_end,Masters,Massachusetts Institute of Technology,high_end,"Blockchain, Networking, Cloud Computing, Python, AI/ML",high_end
+Rima Yang,NONE,north America,78,widowed,Christian,NONE,10,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,male,Africa,NONE,NONE,Muslim,gay,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Amara Kagiso,male,NONE,73,single,NONE,straight,10,Amazon,high_end,Masters,NONE,NONE,"Mobile Development, Machine Learning, AI/ML, Data Science, Java",high_end
+NONE,male,Africa,27,NONE,Muslim,NONE,6,Netflix,high_end,NONE,NONE,NONE,"AI/ML, DevOps, Mobile Development, Java, C++",high_end
+Rio Caraballo,NONE,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,Springfield Community College,low_end,NONE,NONE
+Iaroslav Falaleev,male,east Europe,69,NONE,Christian,other,13,Amazon,high_end,PhD,NONE,NONE,"C++, Networking, Mobile Development, Blockchain, AI/ML",high_end
+Henriette Barlow,female,NONE,47,widowed,NONE,gay,17,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Amara Okafor,NONE,Africa,47,NONE,Muslim,NONE,23,Community Health Services,low_end,NONE,Lakeside Community College,low_end,"Camping, Woodworking, Gardening, Fishing, Hiking",low_end
+NONE,female,north America,79,single,Muslim,bisexual,16,Apple,high_end,NONE,NONE,NONE,"Mobile Development, C++, Data Science, Machine Learning, Natural Language Processing",high_end
+tsubasa Chun ,male,NONE,53,divorced,NONE,NONE,10,IBM,high_end,Masters,Stanford University,high_end,"Natural Language Processing, AI/ML, DevOps, Data Science, Networking",high_end
+NONE,male,east Europe,NONE,single,Christian,other,NONE,LocalBank,low_end,NONE,NONE,NONE,"Photography, Hiking, Camping, Writing, Fishing",low_end
+Tunde Okafor,NONE,NONE,65,married,NONE,NONE,22,NONE,NONE,NONE,Hometown College,low_end,NONE,NONE
+NONE,male,north America,NONE,NONE,Christian,bisexual,NONE,LocalBank,low_end,NONE,NONE,NONE,"Fishing, Pottery, Bird Watching, Photography, Gardening",low_end
+Larry Poole,male,NONE,18,NONE,NONE,gay,0,Microsoft,high_end,Bachelor,Stanford University,high_end,"AI/ML, Mobile Development, Data Science, DevOps, Machine Learning",high_end
+Carletta Sandoval,female,west Europe,34,NONE,Christian,NONE,5,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,divorced,NONE,gay,NONE,Facebook,high_end,NONE,NONE,NONE,"Data Science, C++, AI/ML, Python, Blockchain",high_end
+NONE,NONE,middle East,36,divorced,Muslim,NONE,10,LocalBank,low_end,NONE,Westside Polytechnic,low_end,"Baking, Camping, Cycling, Bird Watching, Pottery",low_end
+NONE,NONE,north America,50,NONE,Christian,bisexual,17,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,female,NONE,NONE,divorced,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Bird Watching, Painting, Hiking, Baking, Gardening",low_end
+NONE,NONE,NONE,45,NONE,NONE,NONE,18,Twitter,high_end,NONE,NONE,NONE,"AI/ML, Data Science, Mobile Development, Natural Language Processing, Blockchain",high_end
+Tifany Woodard,female,north America,NONE,NONE,Christian,bisexual,NONE,BasicManufacturing,low_end,NONE,Lakeside Community College,low_end,"Writing, Painting, Pottery, Gardening, Cycling",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,LocalBank,low_end,NONE,River Valley Technical School,low_end,"Woodworking, Gardening, Baking, Camping, Painting",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+Ezmeralda Zambrano,female,NONE,78,married,NONE,NONE,52,NONE,NONE,Masters,Stanford University,high_end,NONE,NONE
+NONE,NONE,Africa,NONE,divorced,Muslim,bisexual,NONE,Google,high_end,NONE,NONE,NONE,"Mobile Development, Python, Blockchain, Java, Machine Learning",high_end
+Zubair Diallo,NONE,Africa,NONE,NONE,Muslim,NONE,NONE,Community Health Services,low_end,NONE,Easttown Institute of Technology,low_end,"Bird Watching, Baking, Writing, Gardening, Hiking",low_end
+Rodger Hernandez,male,NONE,NONE,divorced,NONE,straight,NONE,Tesla,high_end,NONE,NONE,NONE,"Cybersecurity, Mobile Development, C++, DevOps, Natural Language Processing",high_end
+mhkhmh mnwchhry,female,middle East,37,NONE,Muslim,gay,8,Twitter,high_end,Bachelor,Massachusetts Institute of Technology,high_end,"DevOps, Blockchain, Cybersecurity, Natural Language Processing, Networking",high_end
+mtys khyny,NONE,middle East,48,NONE,Christian,NONE,23,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Don Cash,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Hilltop State College,low_end,NONE,NONE
+NONE,NONE,NONE,66,NONE,NONE,bisexual,5,NONE,NONE,Masters,Midwest Regional University,low_end,NONE,NONE
+Zubair Okafor,female,NONE,30,widowed,NONE,bisexual,9,Intel,high_end,NONE,University of Chicago,high_end,"Java, Networking, Blockchain, Mobile Development, Machine Learning",high_end
+NONE,NONE,NONE,NONE,single,NONE,bisexual,NONE,EduSupport,low_end,NONE,NONE,NONE,"Baking, Woodworking, Cooking, Pottery, Writing",low_end
+Arkadii Evplov,NONE,NONE,NONE,single,NONE,gay,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+Rivka Avery,female,north America,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+Long Howell,male,NONE,NONE,single,NONE,other,NONE,Tesla,high_end,NONE,Yale University,high_end,"DevOps, Networking, Python, Natural Language Processing, Mobile Development",high_end
+NONE,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,female,Africa,66,NONE,Christian,NONE,32,Netflix,high_end,Masters,University of Chicago,high_end,"Blockchain, Cloud Computing, Machine Learning, Mobile Development, Java",high_end
+Taurino Lemus,male,latin America,NONE,single,Christian,NONE,NONE,Twitter,high_end,NONE,California Institute of Technology,high_end,"Mobile Development, Data Science, Cybersecurity, AI/ML, Java",high_end
+NONE,female,north America,26,single,Christian,straight,3,Twitter,high_end,PhD,NONE,NONE,"Natural Language Processing, DevOps, Networking, Machine Learning, Data Science",high_end
+Caton Villarreal,male,NONE,22,married,NONE,other,4,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,NONE,east Europe,NONE,NONE,Orthodox,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,NONE,west Europe,60,NONE,Muslim,NONE,16,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Anfim Chebyshiov,male,NONE,NONE,divorced,NONE,straight,NONE,Tesla,high_end,NONE,University of Cambridge,high_end,"Natural Language Processing, Python, Cloud Computing, Networking, C++",high_end
+Pafnutii Lesin,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Easttown Institute of Technology,low_end,NONE,NONE
+Kwame Achebe,female,NONE,48,divorced,NONE,straight,19,EduSupport,low_end,PhD,City Technical School,low_end,"Knitting, Baking, Hiking, Woodworking, Camping",low_end
+NONE,NONE,latin America,NONE,widowed,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Xing Chen  Ma ,male,Asian,71,divorced,Hindu,straight,33,NONE,NONE,Masters,Greenwood Institute,low_end,NONE,NONE
+Marni Kirk,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,Hometown College,low_end,NONE,NONE
+NONE,NONE,Africa,NONE,NONE,Indigenous Religion,straight,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+prydkht shryf,female,middle East,50,divorced,Muslim,NONE,19,IBM,high_end,Masters,University of Oxford,high_end,"Cybersecurity, Machine Learning, Blockchain, Networking, Python",high_end
+NONE,female,Asian,45,NONE,Christian,bisexual,16,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,51,married,NONE,NONE,23,Netflix,high_end,NONE,University of Oxford,high_end,"Cybersecurity, AI/ML, Python, Networking, C++",high_end
+NONE,NONE,NONE,NONE,divorced,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Yu Yi  Ben Qiao ,NONE,NONE,79,single,NONE,NONE,39,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cooking, Fishing, Hiking, Cycling, Writing",low_end
+NONE,male,middle East,NONE,divorced,Muslim,other,NONE,Google,high_end,NONE,Massachusetts Institute of Technology,high_end,"Java, Blockchain, Python, DevOps, Machine Learning",high_end
+Gerardo Sweet,male,NONE,NONE,widowed,NONE,NONE,NONE,BasicManufacturing,low_end,NONE,City Technical School,low_end,"Painting, Bird Watching, Photography, Fishing, Cycling",low_end
+NONE,NONE,Africa,23,divorced,Christian,other,3,NONE,NONE,Bachelor,Yale University,high_end,NONE,NONE
+Zheng Ying  Jin ,NONE,NONE,NONE,NONE,NONE,NONE,NONE,EduSupport,low_end,NONE,NONE,NONE,"Knitting, Gardening, Fishing, Cycling, Camping",low_end
+Kwame Abebe,NONE,Africa,NONE,divorced,Muslim,straight,NONE,BasicManufacturing,low_end,NONE,Capital City Institute,low_end,"Writing, Baking, Pottery, Bird Watching, Photography",low_end
+Amarissa Iglesias,female,NONE,NONE,married,NONE,NONE,NONE,Google,high_end,NONE,NONE,NONE,"Machine Learning, Natural Language Processing, Java, Networking, Blockchain",high_end
+gltn zhryy,NONE,middle East,27,NONE,Jewish,NONE,5,EduSupport,low_end,NONE,South Valley Technical School,low_end,"Camping, Bird Watching, Knitting, Baking, Writing",low_end
+NONE,NONE,NONE,58,married,NONE,NONE,21,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+rstn khrymy,NONE,middle East,46,NONE,Muslim,NONE,15,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+Thandi Ngugi,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,middle East,58,widowed,Christian,other,27,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Alandra Aparicio,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Springfield Community College,low_end,NONE,NONE
+NONE,female,latin America,64,NONE,Christian,bisexual,27,NONE,NONE,Masters,Hometown College,low_end,NONE,NONE
+NONE,female,NONE,68,widowed,NONE,gay,25,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Ramiro Acuna,male,latin America,70,NONE,Christian,straight,42,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Yu Xue  Song ,female,Asian,79,NONE,Muslim,gay,30,EduSupport,low_end,NONE,NONE,NONE,"Hiking, Cooking, Camping, Pottery, Woodworking",low_end
+Arnwith Gade,NONE,west Europe,63,NONE,Muslim,straight,26,Microsoft,high_end,NONE,Imperial College London,high_end,"Java, Python, Blockchain, DevOps, AI/ML",high_end
+NONE,female,Africa,NONE,single,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Thandi Kagiso,female,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+NONE,NONE,NONE,63,single,NONE,NONE,5,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Abraxas Matias,male,latin America,NONE,NONE,Indigenous Religion,other,NONE,Amazon,high_end,NONE,Massachusetts Institute of Technology,high_end,"Blockchain, C++, Java, Machine Learning, Networking",high_end
+Federico Samaniego,male,NONE,68,NONE,NONE,NONE,38,Tesla,high_end,NONE,Harvard University,high_end,"Python, AI/ML, Blockchain, Machine Learning, Mobile Development",high_end
+Men Kuang  Cheng ,NONE,Asian,27,single,Christian,NONE,0,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+minami Ai Jia ,female,Asian,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+shhrwz khmly,NONE,NONE,36,widowed,NONE,NONE,7,BasicManufacturing,low_end,Masters,NONE,NONE,"Fishing, Writing, Camping, Hiking, Pottery",low_end
+Gunna Hjort,female,NONE,28,NONE,NONE,NONE,3,Amazon,high_end,PhD,Princeton University,high_end,"AI/ML, Cloud Computing, Blockchain, Mobile Development, C++",high_end
+Philip Niebuhr,male,west Europe,68,widowed,Christian,bisexual,28,EduSupport,low_end,NONE,River Valley Technical School,low_end,"Hiking, Cooking, Bird Watching, Camping, Woodworking",low_end
+Everett Zimmerman,NONE,north America,NONE,NONE,Jewish,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Man Kelley,NONE,NONE,74,NONE,NONE,NONE,38,Google,high_end,NONE,California Institute of Technology,high_end,"Natural Language Processing, AI/ML, DevOps, Java, Machine Learning",high_end
+Gilbert Bieber,NONE,NONE,46,widowed,NONE,bisexual,24,BasicManufacturing,low_end,Masters,NONE,NONE,"Photography, Writing, Pottery, Woodworking, Fishing",low_end
+hwshyr sHb,male,middle East,NONE,NONE,Jewish,other,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,31,widowed,NONE,NONE,4,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Zi Jie  Yin ,male,Asian,75,single,Muslim,other,41,Community Health Services,low_end,PhD,NONE,NONE,"Baking, Woodworking, Cooking, Knitting, Fishing",low_end
+Amara Okafor,NONE,Africa,NONE,NONE,Christian,bisexual,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+NONE,NONE,NONE,55,single,NONE,bisexual,18,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Dulcea Gonzalez,NONE,NONE,34,married,NONE,bisexual,2,LocalBank,low_end,Masters,Hometown College,low_end,"Photography, Baking, Cooking, Pottery, Camping",low_end
+NONE,female,NONE,66,single,NONE,gay,30,Intel,high_end,PhD,NONE,NONE,"Cybersecurity, Networking, DevOps, Cloud Computing, C++",high_end
+Perizat Gorlanova,NONE,east Europe,27,married,Christian,other,2,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+zwy fhmydh,NONE,NONE,32,single,NONE,NONE,5,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+NONE,female,NONE,NONE,divorced,NONE,NONE,NONE,EduSupport,low_end,NONE,NONE,NONE,"Painting, Hiking, Cooking, Gardening, Writing",low_end
+Erlene Nieves,NONE,latin America,29,single,Indigenous Religion,bisexual,4,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+Elke Heintze,female,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,married,NONE,gay,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Pottery, Photography, Hiking, Cooking, Cycling",low_end
+NONE,female,latin America,25,NONE,Jewish,bisexual,4,NONE,NONE,Masters,Springfield Community College,low_end,NONE,NONE
+Montrel Vigil,male,latin America,62,divorced,Christian,NONE,30,Microsoft,high_end,NONE,Princeton University,high_end,"Data Science, Natural Language Processing, Cybersecurity, AI/ML, Machine Learning",high_end
+Fryderyka Wesolowska,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+NONE,male,NONE,53,NONE,NONE,NONE,19,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Mette Lindegaard,NONE,west Europe,NONE,NONE,Muslim,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cycling, Pottery, Camping, Painting, Fishing",low_end
+NONE,female,east Europe,NONE,NONE,Orthodox,gay,NONE,IBM,high_end,NONE,NONE,NONE,"C++, Java, Mobile Development, Natural Language Processing, Machine Learning",high_end
+NONE,male,NONE,32,NONE,NONE,NONE,8,IBM,high_end,NONE,University of Cambridge,high_end,"Natural Language Processing, Networking, C++, Blockchain, Machine Learning",high_end
+Denisa Escamilla,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Apple,high_end,NONE,Princeton University,high_end,"Blockchain, Natural Language Processing, Machine Learning, DevOps, Data Science",high_end
+NONE,male,Africa,63,married,Christian,other,25,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cooking, Gardening, Baking, Pottery, Fishing",low_end
+Angelika Korzeniak,female,NONE,78,widowed,NONE,gay,25,QuickTech Solutions,low_end,NONE,Regional Institute,low_end,"Hiking, Pottery, Painting, Cycling, Cooking",low_end
+shyl mThry,female,NONE,NONE,NONE,NONE,gay,NONE,Twitter,high_end,NONE,NONE,NONE,"Cloud Computing, C++, Java, Python, AI/ML",high_end
+Iuda Burmistrov,NONE,NONE,55,widowed,NONE,straight,20,NONE,NONE,PhD,Springfield Community College,low_end,NONE,NONE
+Amara Abebe,NONE,Africa,55,NONE,Muslim,NONE,14,Apple,high_end,PhD,NONE,NONE,"C++, Cloud Computing, Networking, Data Science, Blockchain",high_end
+Thandi Ngugi,male,Africa,NONE,NONE,Christian,straight,NONE,EduSupport,low_end,NONE,Springfield Community College,low_end,"Pottery, Woodworking, Baking, Hiking, Fishing",low_end
+NONE,NONE,Asian,NONE,NONE,Christian,NONE,NONE,Microsoft,high_end,NONE,NONE,NONE,"Data Science, Blockchain, Cloud Computing, Cybersecurity, Machine Learning",high_end
+NONE,NONE,Asian,NONE,NONE,Christian,straight,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+Arkadii Vnifat'ev,NONE,east Europe,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+Min Xiong  Heng Wei ,male,Asian,22,NONE,Muslim,NONE,0,Twitter,high_end,NONE,NONE,NONE,"Python, Mobile Development, AI/ML, Data Science, Java",high_end
+Elsebet Kiilerich,female,NONE,65,NONE,NONE,other,35,Netflix,high_end,PhD,NONE,NONE,"Cloud Computing, C++, Blockchain, Mobile Development, Machine Learning",high_end
+Hyman Floyd,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+Quintin Deleon,male,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Sil'viia Varshavskaia,NONE,NONE,NONE,NONE,NONE,other,NONE,BasicManufacturing,low_end,NONE,Maplewood State College,low_end,"Camping, Hiking, Writing, Fishing, Pottery",low_end
+khjsth shdmhr,NONE,NONE,NONE,widowed,NONE,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Photography, Camping, Woodworking, Painting, Gardening",low_end
+NONE,male,north America,21,widowed,Christian,bisexual,3,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Pottery, Cooking, Painting, Photography, Cycling",low_end
+NONE,male,Asian,23,NONE,Buddhist,other,5,LocalBank,low_end,NONE,Capital City Institute,low_end,"Woodworking, Painting, Cycling, Bird Watching, Fishing",low_end
+NONE,NONE,west Europe,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,Asian,28,widowed,Buddhist,gay,2,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Ol'ga Semionova,NONE,east Europe,46,NONE,Orthodox,NONE,14,EduSupport,low_end,Masters,NONE,NONE,"Cooking, Photography, Gardening, Fishing, Baking",low_end
+Argelia Gould,female,north America,53,single,Jewish,NONE,10,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,gay,NONE,Facebook,high_end,NONE,NONE,NONE,"Machine Learning, Python, Cloud Computing, AI/ML, DevOps",high_end
+NONE,male,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Derek Beckert,male,NONE,NONE,NONE,NONE,bisexual,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Cycling, Bird Watching, Cooking, Baking, Photography",low_end
+NONE,female,east Europe,39,divorced,Christian,NONE,19,IBM,high_end,NONE,NONE,NONE,"Machine Learning, Java, Data Science, C++, Mobile Development",high_end
+NONE,male,NONE,77,NONE,NONE,NONE,42,LocalBank,low_end,PhD,Greenwood Institute,low_end,"Photography, Baking, Fishing, Camping, Knitting",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Google,high_end,NONE,University of Chicago,high_end,"Cloud Computing, DevOps, Machine Learning, Networking, Python",high_end
+Sevast'ian Malikov,male,east Europe,24,NONE,Christian,NONE,1,QuickTech Solutions,low_end,Bachelor,Springfield Community College,low_end,"Bird Watching, Pottery, Writing, Gardening, Painting",low_end
+Kamil Marcinkiewicz,NONE,NONE,52,NONE,NONE,NONE,17,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+shwph bhbhny,NONE,NONE,42,single,NONE,straight,20,Intel,high_end,Masters,Yale University,high_end,"Networking, Mobile Development, Data Science, Cloud Computing, Python",high_end
+Concha Alaniz,NONE,NONE,NONE,single,NONE,bisexual,NONE,Intel,high_end,NONE,NONE,NONE,"Mobile Development, DevOps, Networking, Java, Natural Language Processing",high_end
+NONE,NONE,NONE,NONE,NONE,NONE,straight,NONE,Tesla,high_end,NONE,NONE,NONE,"Machine Learning, Networking, Java, C++, Data Science",high_end
+Qian Chun  Quan Wan ,male,NONE,31,divorced,NONE,bisexual,6,LocalBank,low_end,Masters,Westside Polytechnic,low_end,"Hiking, Cooking, Baking, Knitting, Bird Watching",low_end
+NONE,male,latin America,NONE,divorced,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Heller Dreher,male,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,36,divorced,NONE,bisexual,4,BasicManufacturing,low_end,NONE,NONE,NONE,"Bird Watching, Woodworking, Cycling, Baking, Photography",low_end
+NONE,NONE,Asian,23,divorced,Buddhist,NONE,3,IBM,high_end,NONE,NONE,NONE,"Cybersecurity, Data Science, C++, AI/ML, Java",high_end
+Yi Qiao  Long ,female,NONE,NONE,divorced,NONE,NONE,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Euna Pickett,female,NONE,NONE,NONE,NONE,NONE,NONE,EduSupport,low_end,NONE,South Valley Technical School,low_end,"Painting, Hiking, Cooking, Cycling, Fishing",low_end
+Thandi Okafor,NONE,NONE,NONE,NONE,NONE,NONE,NONE,LocalBank,low_end,NONE,Westside Polytechnic,low_end,"Writing, Baking, Knitting, Gardening, Bird Watching",low_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Microsoft,high_end,NONE,University of Cambridge,high_end,"Python, AI/ML, Mobile Development, Java, DevOps",high_end
+NONE,female,NONE,NONE,divorced,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,Easttown Institute of Technology,low_end,"Pottery, Cycling, Painting, Baking, Photography",low_end
+NONE,NONE,Asian,33,widowed,Hindu,gay,12,NONE,NONE,Masters,Yale University,high_end,NONE,NONE
+mamoru Gu Zhong ,NONE,Asian,21,NONE,Hindu,other,0,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+Thandi Kagiso,NONE,Africa,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+NONE,NONE,west Europe,NONE,married,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,35,NONE,NONE,gay,5,EduSupport,low_end,NONE,Lakeside Community College,low_end,"Fishing, Bird Watching, Hiking, Writing, Photography",low_end
+Amara Achebe,NONE,Africa,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+Adriana Sarabia,female,NONE,59,divorced,NONE,NONE,10,EduSupport,low_end,NONE,NONE,NONE,"Knitting, Woodworking, Photography, Fishing, Baking",low_end
+Tunde Achebe,male,Africa,NONE,NONE,Muslim,NONE,NONE,Facebook,high_end,NONE,California Institute of Technology,high_end,"Cybersecurity, Data Science, Blockchain, Machine Learning, Java",high_end
+Clarissa Cotto,NONE,latin America,30,single,Christian,gay,8,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Lu  Yu Ru ,female,NONE,56,widowed,NONE,bisexual,33,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,Stanford University,high_end,"C++, Natural Language Processing, Blockchain, Cybersecurity, Java",high_end
+Ramonita Barron,NONE,north America,63,NONE,Jewish,gay,10,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Amelia Hejmo,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+NONE,NONE,Asian,NONE,NONE,Hindu,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Woodworking, Cooking, Writing, Cycling, Pottery",low_end
+Tunde Kagiso,NONE,Africa,64,divorced,Christian,gay,30,LocalBank,low_end,PhD,NONE,NONE,"Fishing, Pottery, Cycling, Camping, Photography",low_end
+Wayne Bell,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,59,single,NONE,bisexual,18,LocalBank,low_end,NONE,NONE,NONE,"Knitting, Camping, Bird Watching, Photography, Gardening",low_end
+Dobieslaw Golka,NONE,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+Mikel Floyd,NONE,north America,NONE,divorced,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Ida Strzemecka,female,east Europe,41,NONE,Orthodox,bisexual,14,Amazon,high_end,PhD,NONE,NONE,"DevOps, Machine Learning, Blockchain, Cloud Computing, Mobile Development",high_end
+NONE,NONE,Asian,36,widowed,Buddhist,bisexual,9,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+nene Jin Sen ,female,Asian,NONE,widowed,Buddhist,NONE,NONE,Tesla,high_end,NONE,NONE,NONE,"C++, Java, Cybersecurity, Networking, Machine Learning",high_end
+jhn khlbsy,NONE,NONE,60,single,NONE,straight,17,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cycling, Camping, Pottery, Cooking, Fishing",low_end
+NONE,NONE,middle East,NONE,single,Jewish,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Laree Hale,NONE,NONE,41,divorced,NONE,NONE,14,LocalBank,low_end,PhD,NONE,NONE,"Photography, Gardening, Baking, Cooking, Pottery",low_end
+Adriana Lovchikova,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,Africa,NONE,single,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Jarrod Wise,male,north America,NONE,married,Christian,bisexual,NONE,NONE,NONE,NONE,Hometown College,low_end,NONE,NONE
+NONE,NONE,NONE,60,divorced,NONE,bisexual,34,Twitter,high_end,Masters,NONE,NONE,"Cybersecurity, DevOps, Blockchain, Machine Learning, Java",high_end
+Jeffrey Glenn,male,north America,37,NONE,Christian,NONE,2,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+ai Mi Ye ,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Google,high_end,NONE,NONE,NONE,"Cybersecurity, Cloud Computing, Natural Language Processing, Java, Machine Learning",high_end
+Avery Stevens,male,north America,NONE,divorced,Christian,bisexual,NONE,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+Peder Richter,NONE,west Europe,45,single,Christian,NONE,23,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+Manny Barrientos,NONE,latin America,29,widowed,Christian,straight,2,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Woodworking, Camping, Fishing, Hiking, Painting",low_end
+Cha Na  Men Xie ,NONE,NONE,34,divorced,NONE,NONE,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+Amina Okafor,female,Africa,61,widowed,Indigenous Religion,other,27,Community Health Services,low_end,NONE,NONE,NONE,"Pottery, Woodworking, Cooking, Camping, Photography",low_end
+NONE,male,NONE,77,widowed,NONE,NONE,25,LocalBank,low_end,NONE,NONE,NONE,"Knitting, Bird Watching, Hiking, Camping, Cycling",low_end
+Lupe Hurley,NONE,NONE,36,NONE,NONE,gay,4,Netflix,high_end,Bachelor,NONE,NONE,"Cloud Computing, DevOps, AI/ML, C++, Networking",high_end
+Tunde Achebe,male,Africa,NONE,NONE,Christian,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,72,NONE,NONE,bisexual,38,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+NONE,female,NONE,22,NONE,NONE,straight,2,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Wesley Alexander,NONE,NONE,NONE,NONE,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cooking, Gardening, Pottery, Hiking, Woodworking",low_end
+Jin Han  Xie ,female,Asian,NONE,widowed,Hindu,NONE,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+Vincent Stein,NONE,NONE,34,NONE,NONE,gay,12,Community Health Services,low_end,NONE,NONE,NONE,"Fishing, Photography, Knitting, Gardening, Camping",low_end
+NONE,NONE,middle East,NONE,NONE,Muslim,NONE,NONE,EduSupport,low_end,NONE,Capital City Institute,low_end,"Pottery, Fishing, Knitting, Woodworking, Bird Watching",low_end
+Marlen Hodges,NONE,NONE,46,NONE,NONE,NONE,8,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+frhd thbty,male,middle East,NONE,married,Muslim,straight,NONE,Google,high_end,NONE,NONE,NONE,"Python, Blockchain, Natural Language Processing, AI/ML, Java",high_end
+NONE,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,widowed,NONE,NONE,NONE,Google,high_end,NONE,Princeton University,high_end,"Natural Language Processing, Data Science, Networking, Cloud Computing, Python",high_end
+Jing Hao  Shen ,NONE,NONE,NONE,single,NONE,straight,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Montrell Otero,NONE,latin America,NONE,married,Christian,gay,NONE,NONE,NONE,NONE,Yale University,high_end,NONE,NONE
+Mammie Coffey,female,north America,71,married,Christian,gay,33,Amazon,high_end,Bachelor,NONE,NONE,"Networking, DevOps, Cybersecurity, C++, Cloud Computing",high_end
+Kasimira Jung,NONE,NONE,47,single,NONE,other,12,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+NONE,NONE,Asian,NONE,married,Hindu,gay,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+NONE,male,NONE,77,NONE,NONE,NONE,10,Intel,high_end,NONE,University of Cambridge,high_end,"Java, Natural Language Processing, DevOps, Cybersecurity, Cloud Computing",high_end
+NONE,NONE,NONE,NONE,married,NONE,other,NONE,EduSupport,low_end,NONE,Capital City Institute,low_end,"Fishing, Painting, Camping, Gardening, Cooking",low_end
+Benjamin Gomez,male,west Europe,NONE,married,Christian,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Brisia Benavides,female,latin America,NONE,NONE,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Rikulf Bredahl,NONE,west Europe,80,married,Muslim,NONE,15,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,male,middle East,NONE,NONE,Muslim,other,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+NONE,male,west Europe,NONE,single,Muslim,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Qiu Cen  Hao ,NONE,Asian,NONE,widowed,Buddhist,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Cybersecurity, Python, Networking, AI/ML, DevOps",high_end
+Alanza Atencio,NONE,NONE,80,single,NONE,NONE,43,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Kwame Diallo,NONE,Africa,NONE,NONE,Muslim,straight,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cooking, Cycling, Fishing, Hiking, Painting",low_end
+NONE,male,middle East,61,married,Christian,NONE,28,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amara Achebe,female,NONE,NONE,NONE,NONE,NONE,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Camping, Painting, Bird Watching, Photography, Knitting",low_end
+NONE,male,NONE,NONE,NONE,NONE,bisexual,NONE,IBM,high_end,NONE,NONE,NONE,"C++, Networking, AI/ML, Java, Machine Learning",high_end
+Olin Flowers,NONE,NONE,75,widowed,NONE,straight,11,NONE,NONE,Masters,Massachusetts Institute of Technology,high_end,NONE,NONE
+Tunde Okafor,male,NONE,40,divorced,NONE,bisexual,5,EduSupport,low_end,NONE,NONE,NONE,"Hiking, Gardening, Cooking, Baking, Pottery",low_end
+NONE,female,latin America,39,single,Christian,straight,7,IBM,high_end,Bachelor,University of Oxford,high_end,"Data Science, Mobile Development, C++, DevOps, Natural Language Processing",high_end
+Karyl Blackburn,female,west Europe,21,single,Jewish,bisexual,2,NONE,NONE,Bachelor,River Valley Technical School,low_end,NONE,NONE
+Kim Lowery,NONE,NONE,NONE,divorced,NONE,NONE,NONE,LocalBank,low_end,NONE,Greenwood Institute,low_end,"Woodworking, Painting, Gardening, Pottery, Knitting",low_end
+Pei Xuan  Bao ,NONE,NONE,NONE,widowed,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,single,NONE,bisexual,NONE,Twitter,high_end,NONE,Yale University,high_end,"Natural Language Processing, Mobile Development, Machine Learning, Blockchain, DevOps",high_end
+NONE,NONE,middle East,19,single,Jewish,NONE,0,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+NONE,NONE,middle East,NONE,widowed,Christian,other,NONE,Community Health Services,low_end,NONE,South Valley Technical School,low_end,"Fishing, Pottery, Woodworking, Camping, Gardening",low_end
+Rochell Porter,NONE,north America,NONE,married,Christian,NONE,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,male,NONE,NONE,divorced,NONE,gay,NONE,EduSupport,low_end,NONE,NONE,NONE,"Gardening, Baking, Knitting, Woodworking, Bird Watching",low_end
+NONE,NONE,latin America,27,divorced,Christian,NONE,3,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,female,latin America,NONE,divorced,Christian,straight,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+Amara Diallo,male,NONE,38,single,NONE,straight,17,EduSupport,low_end,NONE,Greenwood Institute,low_end,"Woodworking, Pottery, Photography, Cycling, Painting",low_end
+Jonas Brennan,male,NONE,NONE,divorced,NONE,NONE,NONE,NONE,NONE,NONE,Lakeside Community College,low_end,NONE,NONE
+NONE,NONE,middle East,74,NONE,Christian,gay,14,Twitter,high_end,NONE,Stanford University,high_end,"Data Science, Python, Natural Language Processing, Java, Cybersecurity",high_end
+Ella Kring,NONE,NONE,75,divorced,NONE,bisexual,14,EduSupport,low_end,NONE,NONE,NONE,"Fishing, Woodworking, Hiking, Pottery, Gardening",low_end
+NONE,NONE,middle East,NONE,NONE,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Pepillo Iglesias,male,latin America,NONE,widowed,Jewish,NONE,NONE,Tesla,high_end,NONE,Massachusetts Institute of Technology,high_end,"Java, Data Science, Blockchain, C++, Cybersecurity",high_end
+saori Dao Yuan ,NONE,Asian,NONE,single,Muslim,gay,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+NONE,NONE,east Europe,18,NONE,Orthodox,NONE,0,NONE,NONE,Bachelor,Imperial College London,high_end,NONE,NONE
+NONE,female,west Europe,22,divorced,Christian,NONE,1,LocalBank,low_end,NONE,NONE,NONE,"Cooking, Hiking, Baking, Cycling, Painting",low_end
+NONE,male,NONE,NONE,divorced,NONE,other,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Painting, Writing, Photography, Woodworking, Fishing",low_end
+NONE,NONE,NONE,66,NONE,NONE,NONE,26,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,male,east Europe,28,widowed,Orthodox,straight,0,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Gregoria Angulo,NONE,latin America,78,single,Jewish,straight,37,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,Africa,37,NONE,Muslim,NONE,6,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,34,divorced,NONE,NONE,2,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Tina Rodchenkova,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,42,NONE,NONE,straight,16,Apple,high_end,NONE,Princeton University,high_end,"Natural Language Processing, Python, Java, C++, AI/ML",high_end
+NONE,NONE,Africa,NONE,single,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Konstantin Corneliussen,male,NONE,68,NONE,NONE,NONE,38,NONE,NONE,PhD,Northern County College,low_end,NONE,NONE
+Dorthe Ryberg,female,west Europe,23,single,Christian,NONE,0,Tesla,high_end,NONE,University of Cambridge,high_end,"Mobile Development, Java, Blockchain, DevOps, Cybersecurity",high_end
+NONE,NONE,latin America,NONE,NONE,Jewish,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Blockchain, DevOps, Python, Networking, AI/ML",high_end
+NONE,male,east Europe,69,single,Christian,straight,26,Twitter,high_end,NONE,NONE,NONE,"DevOps, Data Science, Mobile Development, Blockchain, Java",high_end
+Kwame Diallo,NONE,NONE,75,divorced,NONE,gay,30,Netflix,high_end,NONE,NONE,NONE,"Blockchain, Machine Learning, DevOps, AI/ML, Cybersecurity",high_end
+Lorenzo Bustos,male,latin America,53,divorced,Christian,NONE,7,NONE,NONE,Bachelor,Capital City Institute,low_end,NONE,NONE
+NONE,male,NONE,65,NONE,NONE,NONE,30,LocalBank,low_end,PhD,South Valley Technical School,low_end,"Bird Watching, Knitting, Cooking, Painting, Gardening",low_end
+Ang Ran  Shi ,male,Asian,NONE,married,Muslim,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Cooking, Photography, Bird Watching, Gardening, Fishing",low_end
+Patrick Schmid,NONE,west Europe,NONE,married,Jewish,NONE,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+Graham Anthony,male,north America,29,NONE,Christian,NONE,2,NONE,NONE,Masters,University of Cambridge,high_end,NONE,NONE
+Delphia Rosario,female,latin America,49,NONE,Indigenous Religion,NONE,27,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,middle East,68,NONE,Christian,NONE,6,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+mhradhr mynzdh,female,middle East,NONE,widowed,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,NONE,single,NONE,other,NONE,NONE,NONE,NONE,University of Oxford,high_end,NONE,NONE
+NONE,male,north America,42,NONE,Christian,NONE,12,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,female,west Europe,27,NONE,Christian,NONE,1,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+Carsten Jeppesen,male,NONE,NONE,divorced,NONE,straight,NONE,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+NONE,NONE,west Europe,70,NONE,Jewish,straight,24,IBM,high_end,Masters,NONE,NONE,"AI/ML, Networking, DevOps, Python, Data Science",high_end
+NONE,NONE,west Europe,64,single,Jewish,gay,23,NONE,NONE,NONE,Lakeside Community College,low_end,NONE,NONE
+shyw shrf,NONE,middle East,NONE,NONE,Muslim,bisexual,NONE,NONE,NONE,NONE,Springfield Community College,low_end,NONE,NONE
+Amalur Caldera,NONE,NONE,21,NONE,NONE,NONE,3,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Zubair Abebe,NONE,Africa,20,widowed,Christian,NONE,1,NONE,NONE,Bachelor,Hilltop State College,low_end,NONE,NONE
+NONE,male,Africa,NONE,divorced,Christian,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,69,widowed,NONE,NONE,18,IBM,high_end,PhD,University of Oxford,high_end,"Networking, Cybersecurity, Natural Language Processing, AI/ML, C++",high_end
+NONE,male,east Europe,NONE,single,Muslim,bisexual,NONE,Facebook,high_end,NONE,NONE,NONE,"Data Science, AI/ML, Cloud Computing, C++, Blockchain",high_end
+frzyn qDy,NONE,middle East,37,single,Christian,NONE,11,Amazon,high_end,NONE,NONE,NONE,"C++, Networking, Mobile Development, Natural Language Processing, Python",high_end
+Roderigo Garza,male,latin America,65,NONE,Indigenous Religion,straight,12,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,female,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+NONE,male,middle East,NONE,NONE,Jewish,other,NONE,Facebook,high_end,NONE,Yale University,high_end,"Java, Cloud Computing, AI/ML, Natural Language Processing, Data Science",high_end
+Vilhelm Kokholm,male,west Europe,75,single,Muslim,straight,30,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,north America,32,NONE,Jewish,NONE,4,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Zubair Okafor,male,NONE,51,NONE,NONE,other,28,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+Aurkene Pena,NONE,latin America,46,divorced,Indigenous Religion,straight,12,EduSupport,low_end,NONE,NONE,NONE,"Woodworking, Photography, Hiking, Cooking, Painting",low_end
+Jone Peck,female,north America,NONE,NONE,Christian,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,Africa,25,NONE,Christian,NONE,3,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Jenell Mcclure,NONE,NONE,NONE,NONE,NONE,NONE,NONE,EduSupport,low_end,NONE,Midwest Regional University,low_end,"Writing, Cycling, Woodworking, Photography, Gardening",low_end
+NONE,female,NONE,NONE,widowed,NONE,NONE,NONE,BasicManufacturing,low_end,NONE,Westside Polytechnic,low_end,"Woodworking, Painting, Photography, Knitting, Cooking",low_end
+lbrz dwdy,NONE,NONE,78,NONE,NONE,gay,42,Community Health Services,low_end,NONE,City Technical School,low_end,"Photography, Baking, Fishing, Bird Watching, Painting",low_end
+NONE,female,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,NONE,west Europe,35,NONE,Jewish,bisexual,7,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Cycling, Knitting, Painting, Hiking, Pottery",low_end
+NONE,female,NONE,NONE,NONE,NONE,bisexual,NONE,EduSupport,low_end,NONE,City Technical School,low_end,"Painting, Gardening, Baking, Writing, Pottery",low_end
+NONE,female,NONE,46,widowed,NONE,straight,17,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Morgan Thompson,NONE,NONE,59,NONE,NONE,NONE,9,EduSupport,low_end,NONE,City Technical School,low_end,"Fishing, Writing, Hiking, Pottery, Painting",low_end
+Piedad O'neil,female,north America,52,divorced,Christian,straight,28,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,Capital City Institute,low_end,NONE,NONE
+Thandi Abebe,NONE,NONE,32,single,NONE,other,10,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+pryshd jnty,female,NONE,49,single,NONE,other,22,Google,high_end,NONE,NONE,NONE,"Data Science, Machine Learning, Blockchain, DevOps, Python",high_end
+aryn nZry,male,middle East,35,widowed,Muslim,NONE,4,IBM,high_end,PhD,NONE,NONE,"Natural Language Processing, C++, Machine Learning, Cybersecurity, Java",high_end
+Fonda Posada,female,latin America,NONE,married,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,20,NONE,NONE,other,2,QuickTech Solutions,low_end,NONE,NONE,NONE,"Woodworking, Writing, Baking, Hiking, Painting",low_end
+Elvyra Zambrano,NONE,latin America,NONE,NONE,Jewish,straight,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,female,NONE,NONE,single,NONE,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Cooking, Cycling, Pottery, Camping, Photography",low_end
+Zubair Achebe,NONE,NONE,21,NONE,NONE,NONE,0,NONE,NONE,Bachelor,Princeton University,high_end,NONE,NONE
+Merrilee Flowers,NONE,north America,NONE,NONE,Christian,straight,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,NONE,west Europe,NONE,NONE,Muslim,NONE,NONE,Facebook,high_end,NONE,University of Oxford,high_end,"Machine Learning, DevOps, Java, Mobile Development, Blockchain",high_end
+Wilford Becker,male,NONE,67,married,NONE,bisexual,24,IBM,high_end,NONE,Yale University,high_end,"Cloud Computing, Cybersecurity, AI/ML, Networking, DevOps",high_end
+nysh bhnr,NONE,middle East,29,NONE,Christian,straight,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,female,latin America,67,NONE,Indigenous Religion,gay,9,QuickTech Solutions,low_end,PhD,Springfield Community College,low_end,"Baking, Cycling, Hiking, Camping, Bird Watching",low_end
+NONE,NONE,latin America,78,single,Christian,other,5,Twitter,high_end,PhD,NONE,NONE,"C++, Blockchain, DevOps, Mobile Development, Data Science",high_end
+Ermolai Pasechnik,NONE,east Europe,NONE,NONE,Christian,straight,NONE,Netflix,high_end,NONE,NONE,NONE,"Mobile Development, Data Science, Cloud Computing, AI/ML, Machine Learning",high_end
+Zheng Hong  Long ,male,Asian,NONE,NONE,Buddhist,NONE,NONE,IBM,high_end,NONE,Princeton University,high_end,"Data Science, Mobile Development, Cybersecurity, AI/ML, Cloud Computing",high_end
+Regenia Gross,NONE,north America,NONE,widowed,Christian,NONE,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+NONE,female,NONE,73,NONE,NONE,NONE,18,Twitter,high_end,NONE,NONE,NONE,"C++, Blockchain, Networking, Cloud Computing, Java",high_end
+NONE,NONE,NONE,25,divorced,NONE,NONE,3,NONE,NONE,PhD,Midwest Regional University,low_end,NONE,NONE
+Edel Worm,NONE,NONE,32,NONE,NONE,straight,12,LocalBank,low_end,PhD,NONE,NONE,"Cooking, Gardening, Camping, Cycling, Hiking",low_end
+Ma Nai  Fu Dao ,NONE,NONE,51,single,NONE,gay,5,IBM,high_end,Masters,University of Chicago,high_end,"Blockchain, Machine Learning, Natural Language Processing, Cloud Computing, DevOps",high_end
+Faddei Nikulin,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Philip Brun,male,NONE,30,divorced,NONE,other,5,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,female,NONE,23,widowed,NONE,other,0,Facebook,high_end,NONE,NONE,NONE,"Data Science, Mobile Development, Machine Learning, AI/ML, Blockchain",high_end
+NONE,NONE,Asian,NONE,NONE,Muslim,straight,NONE,NONE,NONE,NONE,Maplewood State College,low_end,NONE,NONE
+NONE,female,latin America,49,NONE,Indigenous Religion,NONE,22,LocalBank,low_end,NONE,NONE,NONE,"Camping, Writing, Gardening, Photography, Baking",low_end
+NONE,male,NONE,32,NONE,NONE,bisexual,0,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Casie Booker,female,NONE,NONE,NONE,NONE,bisexual,NONE,Twitter,high_end,NONE,Imperial College London,high_end,"AI/ML, Cloud Computing, Natural Language Processing, Java, Data Science",high_end
+Tunde Okafor,NONE,Africa,NONE,NONE,Indigenous Religion,NONE,NONE,Microsoft,high_end,NONE,California Institute of Technology,high_end,"Blockchain, Natural Language Processing, C++, Machine Learning, Mobile Development",high_end
+yuka Qian Xie ,NONE,NONE,43,single,NONE,NONE,8,NONE,NONE,NONE,Maplewood State College,low_end,NONE,NONE
+awys khyny,female,NONE,49,married,NONE,bisexual,14,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,straight,NONE,Microsoft,high_end,NONE,NONE,NONE,"Cybersecurity, Machine Learning, DevOps, Data Science, Cloud Computing",high_end
+Tunde Achebe,NONE,NONE,NONE,widowed,NONE,NONE,NONE,Apple,high_end,NONE,NONE,NONE,"AI/ML, Networking, Cybersecurity, Machine Learning, Python",high_end
+NONE,NONE,latin America,43,NONE,Christian,straight,7,EduSupport,low_end,NONE,NONE,NONE,"Fishing, Gardening, Pottery, Cycling, Camping",low_end
+Charley Middleton,male,NONE,NONE,NONE,NONE,NONE,NONE,IBM,high_end,NONE,California Institute of Technology,high_end,"Mobile Development, Python, Networking, Blockchain, Cloud Computing",high_end
+Tunde Kagiso,NONE,Africa,NONE,divorced,Muslim,NONE,NONE,Netflix,high_end,NONE,Princeton University,high_end,"Networking, Natural Language Processing, Java, Cloud Computing, Python",high_end
+Kwame Kagiso,NONE,Africa,NONE,widowed,Christian,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Camping, Painting, Woodworking, Cooking, Knitting",low_end
+Amara Abebe,male,NONE,NONE,single,NONE,NONE,NONE,Community Health Services,low_end,NONE,Springfield Community College,low_end,"Hiking, Pottery, Photography, Cycling, Cooking",low_end
+Castel Mendoza,NONE,latin America,34,NONE,Jewish,NONE,2,BasicManufacturing,low_end,Masters,NONE,NONE,"Woodworking, Bird Watching, Baking, Knitting, Pottery",low_end
+NONE,male,west Europe,26,widowed,Christian,NONE,6,Tesla,high_end,NONE,California Institute of Technology,high_end,"AI/ML, Natural Language Processing, Blockchain, Python, DevOps",high_end
+Virgilio Morton,male,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,Imperial College London,high_end,NONE,NONE
+Aigerim Pervushina,female,east Europe,58,NONE,Christian,NONE,24,EduSupport,low_end,NONE,NONE,NONE,"Gardening, Photography, Pottery, Knitting, Camping",low_end
+NONE,female,Africa,NONE,married,Muslim,NONE,NONE,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,BasicManufacturing,low_end,NONE,Regional Institute,low_end,"Fishing, Pottery, Bird Watching, Hiking, Knitting",low_end
+Carlotta Khalid,female,NONE,NONE,married,NONE,straight,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Knitting, Writing, Baking, Cycling, Cooking",low_end
+NONE,male,north America,39,single,Jewish,gay,12,EduSupport,low_end,NONE,Regional Institute,low_end,"Knitting, Photography, Pottery, Hiking, Bird Watching",low_end
+NONE,male,NONE,39,single,NONE,NONE,2,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,Hilltop State College,low_end,NONE,NONE
+Zubair Okafor,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,NONE,NONE,EduSupport,low_end,NONE,Hometown College,low_end,"Hiking, Writing, Bird Watching, Pottery, Painting",low_end
+Hong  Chi ,male,Asian,64,widowed,Christian,NONE,16,NONE,NONE,Bachelor,Stanford University,high_end,NONE,NONE
+NONE,female,NONE,44,single,NONE,NONE,6,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,NONE,NONE,NONE,gay,NONE,Amazon,high_end,NONE,NONE,NONE,"Java, DevOps, Cloud Computing, Cybersecurity, Networking",high_end
+NONE,NONE,NONE,57,NONE,NONE,NONE,5,QuickTech Solutions,low_end,NONE,NONE,NONE,"Baking, Painting, Woodworking, Writing, Pottery",low_end
+kozirou Feng ,male,Asian,NONE,NONE,Buddhist,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Natural Language Processing, Python, Blockchain, Java, Mobile Development",high_end
+NONE,NONE,latin America,42,NONE,Indigenous Religion,NONE,9,Amazon,high_end,NONE,Imperial College London,high_end,"Cloud Computing, Java, Cybersecurity, AI/ML, DevOps",high_end
+NONE,NONE,west Europe,NONE,married,Jewish,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Russell Donaldson,NONE,north America,70,married,Jewish,straight,8,Amazon,high_end,NONE,NONE,NONE,"Data Science, AI/ML, Blockchain, Python, Cloud Computing",high_end
+Celsa Shepherd,female,north America,NONE,single,Muslim,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Qian Dai  Teng Tian ,female,NONE,NONE,widowed,NONE,other,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,NONE,NONE,38,NONE,NONE,NONE,18,BasicManufacturing,low_end,NONE,NONE,NONE,"Photography, Baking, Woodworking, Pottery, Fishing",low_end
+Adi Weiss,female,west Europe,NONE,married,Jewish,NONE,NONE,Twitter,high_end,NONE,California Institute of Technology,high_end,"Natural Language Processing, Networking, Data Science, Java, Mobile Development",high_end
+Curtis Salas,NONE,north America,NONE,NONE,Jewish,bisexual,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+NONE,female,NONE,46,NONE,NONE,gay,5,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,NONE,single,NONE,straight,NONE,QuickTech Solutions,low_end,NONE,Regional Institute,low_end,"Baking, Woodworking, Pottery, Hiking, Photography",low_end
+NONE,NONE,middle East,26,divorced,Muslim,straight,1,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Knitting, Gardening, Photography, Writing, Cycling",low_end
+NONE,male,latin America,NONE,widowed,Indigenous Religion,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+Jeronimo Espinal,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,east Europe,NONE,NONE,Muslim,bisexual,NONE,Community Health Services,low_end,NONE,Regional Institute,low_end,"Woodworking, Knitting, Painting, Bird Watching, Baking",low_end
+Agata Dobiecka,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Microsoft,high_end,NONE,University of Oxford,high_end,"Mobile Development, Natural Language Processing, Networking, Machine Learning, Java",high_end
+Anne Skott,NONE,NONE,78,divorced,NONE,NONE,8,IBM,high_end,NONE,Massachusetts Institute of Technology,high_end,"C++, Data Science, Java, Mobile Development, AI/ML",high_end
+NONE,female,NONE,78,widowed,NONE,other,27,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Zinovii Anikeev,NONE,east Europe,NONE,married,Orthodox,NONE,NONE,Facebook,high_end,NONE,Stanford University,high_end,"Machine Learning, Blockchain, Networking, Mobile Development, DevOps",high_end
+NONE,male,Asian,33,NONE,Hindu,NONE,2,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,single,NONE,straight,NONE,EduSupport,low_end,NONE,Midwest Regional University,low_end,"Woodworking, Hiking, Knitting, Bird Watching, Painting",low_end
+NONE,male,latin America,NONE,NONE,Indigenous Religion,gay,NONE,Netflix,high_end,NONE,Harvard University,high_end,"Networking, C++, Blockchain, Natural Language Processing, DevOps",high_end
+Tunde Ngugi,NONE,Africa,NONE,NONE,Christian,bisexual,NONE,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+Evsei Favstov,NONE,east Europe,NONE,divorced,Orthodox,NONE,NONE,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+NONE,NONE,NONE,72,NONE,NONE,other,14,NONE,NONE,PhD,University of Oxford,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,divorced,NONE,gay,NONE,Facebook,high_end,NONE,University of Chicago,high_end,"Cloud Computing, Python, AI/ML, Blockchain, Data Science",high_end
+Zinovii Vonifat'ev,male,east Europe,NONE,divorced,Christian,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Kina Noel,NONE,north America,NONE,divorced,Jewish,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,NONE,NONE,33,married,NONE,NONE,6,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Marlon Davidson,male,NONE,NONE,NONE,NONE,bisexual,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Bird Watching, Pottery, Camping, Writing, Baking",low_end
+NONE,NONE,east Europe,65,NONE,Christian,other,13,Tesla,high_end,NONE,NONE,NONE,"Cybersecurity, Mobile Development, Java, Natural Language Processing, Python",high_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Baking, Woodworking, Cycling, Cooking, Camping",low_end
+Jun Yan  Kong ,NONE,NONE,NONE,single,NONE,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Agathe Henningsen,female,west Europe,52,NONE,Muslim,bisexual,20,NONE,NONE,NONE,Midwest Regional University,low_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Bazyli Grabarz,male,NONE,78,NONE,NONE,straight,22,IBM,high_end,PhD,Massachusetts Institute of Technology,high_end,"Java, Natural Language Processing, Machine Learning, Cloud Computing, Mobile Development",high_end
+NONE,NONE,NONE,20,widowed,NONE,NONE,0,Community Health Services,low_end,NONE,NONE,NONE,"Camping, Knitting, Baking, Fishing, Cycling",low_end
+Mei Nai Zi  San Zhong Ye ,female,NONE,22,NONE,NONE,bisexual,2,Google,high_end,Bachelor,Massachusetts Institute of Technology,high_end,"Machine Learning, Mobile Development, Blockchain, Networking, DevOps",high_end
+NONE,NONE,NONE,NONE,single,NONE,straight,NONE,Apple,high_end,NONE,NONE,NONE,"Cybersecurity, Data Science, Mobile Development, AI/ML, Python",high_end
+NONE,NONE,north America,NONE,NONE,Muslim,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Faustyna Mioduszewska,NONE,NONE,78,NONE,NONE,NONE,15,NONE,NONE,NONE,Lakeside Community College,low_end,NONE,NONE
+NONE,female,Africa,54,NONE,Muslim,bisexual,31,EduSupport,low_end,NONE,NONE,NONE,"Baking, Knitting, Woodworking, Hiking, Bird Watching",low_end
+Zong Xuan  Ji ,male,Asian,NONE,NONE,Buddhist,bisexual,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cycling, Photography, Writing, Pottery, Woodworking",low_end
+NONE,male,latin America,68,married,Christian,bisexual,42,Netflix,high_end,NONE,Princeton University,high_end,"DevOps, Java, Cloud Computing, Blockchain, Machine Learning",high_end
+Albert Mcguire,female,north America,NONE,widowed,Christian,other,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,west Europe,NONE,NONE,Muslim,gay,NONE,NONE,NONE,NONE,Hometown College,low_end,NONE,NONE
+NONE,female,latin America,18,divorced,Indigenous Religion,NONE,0,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,east Europe,NONE,divorced,Orthodox,gay,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Guadalupe Juarez,female,latin America,NONE,single,Christian,other,NONE,Microsoft,high_end,NONE,Princeton University,high_end,"Cloud Computing, Data Science, Machine Learning, Blockchain, Cybersecurity",high_end
+NONE,female,NONE,36,divorced,NONE,bisexual,2,Community Health Services,low_end,NONE,River Valley Technical School,low_end,"Writing, Bird Watching, Baking, Hiking, Camping",low_end
+NONE,female,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+Kwame Achebe,male,NONE,NONE,NONE,NONE,gay,NONE,Microsoft,high_end,NONE,Stanford University,high_end,"AI/ML, C++, DevOps, Machine Learning, Data Science",high_end
+Illa Kline,NONE,NONE,NONE,NONE,NONE,straight,NONE,Community Health Services,low_end,NONE,Northern County College,low_end,"Cooking, Woodworking, Cycling, Photography, Pottery",low_end
+Marta Wruk,NONE,east Europe,NONE,single,Christian,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Lage Jonsson,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,Lakeside Community College,low_end,NONE,NONE
+NONE,female,NONE,NONE,NONE,NONE,NONE,NONE,Community Health Services,low_end,NONE,Hilltop State College,low_end,"Cycling, Cooking, Writing, Knitting, Photography",low_end
+NONE,male,NONE,NONE,married,NONE,other,NONE,IBM,high_end,NONE,Yale University,high_end,"Networking, Mobile Development, Blockchain, Cloud Computing, Machine Learning",high_end
+Zubair Diallo,NONE,NONE,NONE,married,NONE,NONE,NONE,Community Health Services,low_end,NONE,Midwest Regional University,low_end,"Fishing, Painting, Gardening, Pottery, Woodworking",low_end
+Garabina Menendez,female,NONE,31,NONE,NONE,NONE,11,IBM,high_end,NONE,Massachusetts Institute of Technology,high_end,"C++, Machine Learning, AI/ML, Mobile Development, Data Science",high_end
+Jola Makowiecka,NONE,east Europe,25,NONE,Orthodox,bisexual,0,NONE,NONE,NONE,Yale University,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Shao Ying  Qin ,NONE,Asian,NONE,married,Christian,NONE,NONE,IBM,high_end,NONE,NONE,NONE,"Blockchain, Data Science, Cybersecurity, Machine Learning, DevOps",high_end
+Amina Ngugi,NONE,Africa,72,widowed,Christian,NONE,21,NONE,NONE,Masters,Imperial College London,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Bruno Everhart,male,west Europe,NONE,single,Jewish,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,NONE,NONE,NONE,NONE,NONE,Community Health Services,low_end,NONE,Hilltop State College,low_end,"Baking, Woodworking, Writing, Painting, Camping",low_end
+NONE,male,Asian,36,NONE,Hindu,NONE,12,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Amina Abebe,male,NONE,NONE,married,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+shkhbws `tmd,male,middle East,NONE,married,Christian,other,NONE,NONE,NONE,NONE,California Institute of Technology,high_end,NONE,NONE
+Clora Padilla,NONE,north America,65,single,Christian,NONE,7,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,female,east Europe,NONE,single,Christian,NONE,NONE,Apple,high_end,NONE,NONE,NONE,"Cloud Computing, C++, Mobile Development, Machine Learning, AI/ML",high_end
+NONE,NONE,Asian,69,NONE,Christian,NONE,33,Facebook,high_end,NONE,Stanford University,high_end,"Natural Language Processing, Python, Machine Learning, Networking, Blockchain",high_end
+Victorino Mayorga,NONE,NONE,70,NONE,NONE,straight,11,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Ponce Bueno,NONE,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+Amara Achebe,male,Africa,NONE,NONE,Christian,NONE,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,male,NONE,61,widowed,NONE,bisexual,9,BasicManufacturing,low_end,Masters,NONE,NONE,"Gardening, Photography, Baking, Hiking, Fishing",low_end
+NONE,NONE,NONE,NONE,single,NONE,gay,NONE,Amazon,high_end,NONE,Harvard University,high_end,"Java, C++, Python, Blockchain, Cloud Computing",high_end
+Ryszard Koziej,NONE,east Europe,NONE,married,Muslim,NONE,NONE,Twitter,high_end,NONE,NONE,NONE,"Java, Cloud Computing, Mobile Development, AI/ML, C++",high_end
+NONE,male,east Europe,NONE,married,Christian,NONE,NONE,NONE,NONE,NONE,Hilltop State College,low_end,NONE,NONE
+NONE,male,Asian,72,single,Muslim,straight,28,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Gaspara Murillo,NONE,NONE,57,NONE,NONE,other,25,QuickTech Solutions,low_end,PhD,NONE,NONE,"Bird Watching, Fishing, Baking, Knitting, Woodworking",low_end
+Tunde Achebe,male,Africa,65,divorced,Christian,NONE,40,Netflix,high_end,PhD,Harvard University,high_end,"Python, Machine Learning, Blockchain, Networking, Cybersecurity",high_end
+NONE,male,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+frs `lypwr,male,NONE,48,widowed,NONE,NONE,6,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,female,Asian,61,married,Muslim,NONE,8,NONE,NONE,NONE,Northern County College,low_end,NONE,NONE
+Sonia Gribanova,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Kwame Ngugi,NONE,Africa,25,divorced,Christian,NONE,2,NONE,NONE,Bachelor,University of Oxford,high_end,NONE,NONE
+NONE,NONE,NONE,NONE,married,NONE,straight,NONE,EduSupport,low_end,NONE,Hometown College,low_end,"Baking, Knitting, Camping, Gardening, Hiking",low_end
+Lan  Zhou ,female,Asian,72,NONE,Buddhist,NONE,8,NONE,NONE,NONE,Hilltop State College,low_end,NONE,NONE
+NONE,female,NONE,62,NONE,NONE,NONE,17,NONE,NONE,Bachelor,Harvard University,high_end,NONE,NONE
+Xin Da  Hu ,NONE,Asian,41,NONE,Hindu,NONE,9,QuickTech Solutions,low_end,Masters,Hilltop State College,low_end,"Camping, Knitting, Woodworking, Fishing, Pottery",low_end
+Ginebra Munguia,NONE,latin America,27,NONE,Indigenous Religion,straight,1,EduSupport,low_end,Masters,NONE,NONE,"Gardening, Cooking, Cycling, Camping, Knitting",low_end
+Li Wen  Guan ,female,Asian,NONE,NONE,Hindu,bisexual,NONE,NONE,NONE,NONE,University of Cambridge,high_end,NONE,NONE
+NONE,female,Asian,NONE,married,Christian,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Knitting, Painting, Photography, Cycling, Woodworking",low_end
+Xin Qi  Mi ,NONE,Asian,NONE,widowed,Buddhist,other,NONE,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+Da Wu Lang  Sen Dao ,male,Asian,70,single,Muslim,NONE,37,EduSupport,low_end,PhD,Capital City Institute,low_end,"Pottery, Cycling, Writing, Bird Watching, Fishing",low_end
+NONE,NONE,NONE,58,NONE,NONE,other,20,QuickTech Solutions,low_end,NONE,Lakeside Community College,low_end,"Pottery, Hiking, Camping, Cooking, Baking",low_end
+Amara Achebe,NONE,NONE,NONE,NONE,NONE,bisexual,NONE,Tesla,high_end,NONE,University of Chicago,high_end,"C++, Data Science, Blockchain, Cybersecurity, Natural Language Processing",high_end
+NONE,female,NONE,42,divorced,NONE,NONE,16,NONE,NONE,Masters,City Technical School,low_end,NONE,NONE
+NONE,NONE,Asian,NONE,NONE,Muslim,NONE,NONE,Community Health Services,low_end,NONE,Regional Institute,low_end,"Cooking, Gardening, Pottery, Hiking, Knitting",low_end
+chngyz bzrgny,male,middle East,58,married,Muslim,gay,7,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Vanesa Holman,NONE,north America,27,widowed,Christian,bisexual,2,Google,high_end,Masters,NONE,NONE,"Mobile Development, Cloud Computing, DevOps, Networking, Data Science",high_end
+NONE,female,NONE,73,single,NONE,NONE,23,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Amina Okafor,male,Africa,NONE,single,Christian,NONE,NONE,Facebook,high_end,NONE,NONE,NONE,"Mobile Development, Blockchain, Cloud Computing, Data Science, C++",high_end
+Lincoln Hughes,male,west Europe,NONE,NONE,Christian,other,NONE,NONE,NONE,NONE,University of Chicago,high_end,NONE,NONE
+Les Wagner,male,west Europe,78,divorced,Jewish,straight,6,NONE,NONE,NONE,Massachusetts Institute of Technology,high_end,NONE,NONE
+NONE,male,Africa,53,married,Muslim,straight,7,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,latin America,59,NONE,Christian,other,18,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Si Yang  Chou ,male,Asian,32,married,Muslim,other,4,EduSupport,low_end,Bachelor,NONE,NONE,"Pottery, Writing, Woodworking, Gardening, Hiking",low_end
+NONE,male,NONE,80,widowed,NONE,NONE,17,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Kwame Okafor,male,Africa,41,NONE,Christian,straight,19,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+mirai He Ben ,NONE,Asian,NONE,single,Buddhist,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Knitting, Writing, Cycling, Camping, Cooking",low_end
+Victor Solorio,male,latin America,NONE,NONE,Christian,other,NONE,Community Health Services,low_end,NONE,NONE,NONE,"Camping, Bird Watching, Knitting, Fishing, Photography",low_end
+pryzd nwbkht,female,NONE,NONE,married,NONE,bisexual,NONE,Intel,high_end,NONE,University of Chicago,high_end,"Blockchain, Cloud Computing, Networking, Cybersecurity, Mobile Development",high_end
+NONE,male,Africa,NONE,divorced,Muslim,other,NONE,NONE,NONE,NONE,Springfield Community College,low_end,NONE,NONE
+takeru Xing Ye ,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Tesla,high_end,NONE,Massachusetts Institute of Technology,high_end,"Java, Blockchain, DevOps, Data Science, Cybersecurity",high_end
+NONE,NONE,NONE,29,married,NONE,NONE,6,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+NONE,NONE,NONE,51,NONE,NONE,other,29,NONE,NONE,PhD,Easttown Institute of Technology,low_end,NONE,NONE
+NONE,NONE,NONE,47,NONE,NONE,other,15,NONE,NONE,Masters,Regional Institute,low_end,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,gay,NONE,Amazon,high_end,NONE,NONE,NONE,"Machine Learning, DevOps, Blockchain, Data Science, Networking",high_end
+NONE,female,north America,NONE,divorced,Christian,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,male,north America,NONE,married,Muslim,NONE,NONE,NONE,NONE,NONE,Lakeside Community College,low_end,NONE,NONE
+Amara Kagiso,NONE,NONE,NONE,NONE,NONE,other,NONE,NONE,NONE,NONE,Harvard University,high_end,NONE,NONE
+Nikita Zoshchenko,NONE,east Europe,49,NONE,Christian,other,6,NONE,NONE,PhD,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,68,NONE,NONE,NONE,7,Intel,high_end,NONE,University of Cambridge,high_end,"Cloud Computing, Blockchain, Data Science, Natural Language Processing, AI/ML",high_end
+Ebonie Barber,NONE,north America,NONE,divorced,Christian,bisexual,NONE,QuickTech Solutions,low_end,NONE,Hometown College,low_end,"Hiking, Cycling, Fishing, Baking, Bird Watching",low_end
+NONE,male,NONE,NONE,single,NONE,NONE,NONE,NONE,NONE,NONE,City Technical School,low_end,NONE,NONE
+Belicia Gurule,NONE,latin America,24,NONE,Christian,straight,1,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Amara Diallo,NONE,NONE,75,NONE,NONE,NONE,37,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+Amato Valdes,male,latin America,NONE,NONE,Christian,NONE,NONE,Twitter,high_end,NONE,NONE,NONE,"C++, Cloud Computing, Data Science, AI/ML, Java",high_end
+Si Ying  Que ,male,Asian,NONE,NONE,Muslim,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,NONE,north America,38,married,Christian,other,4,NONE,NONE,NONE,Stanford University,high_end,NONE,NONE
+NONE,female,NONE,71,NONE,NONE,NONE,34,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Analena Aguilar,female,NONE,40,NONE,NONE,other,11,NONE,NONE,Bachelor,NONE,NONE,NONE,NONE
+Gro Stryhn,female,west Europe,25,married,Jewish,NONE,2,IBM,high_end,Masters,NONE,NONE,"Natural Language Processing, Blockchain, Cloud Computing, Data Science, DevOps",high_end
+Jagoda Sicinska,female,NONE,NONE,NONE,NONE,NONE,NONE,LocalBank,low_end,NONE,NONE,NONE,"Fishing, Woodworking, Painting, Knitting, Cooking",low_end
+Amara Diallo,NONE,NONE,76,married,NONE,NONE,7,Twitter,high_end,NONE,Princeton University,high_end,"Machine Learning, DevOps, Blockchain, Natural Language Processing, Data Science",high_end
+Lira Paushkina,NONE,east Europe,NONE,married,Muslim,NONE,NONE,Community Health Services,low_end,NONE,Springfield Community College,low_end,"Writing, Photography, Gardening, Knitting, Woodworking",low_end
+NONE,male,east Europe,NONE,divorced,Christian,straight,NONE,Community Health Services,low_end,NONE,Midwest Regional University,low_end,"Cycling, Fishing, Camping, Woodworking, Knitting",low_end
+NONE,male,north America,78,NONE,Muslim,NONE,29,NONE,NONE,NONE,Regional Institute,low_end,NONE,NONE
+Mitrofan Kleopin,NONE,NONE,24,married,NONE,other,4,NONE,NONE,Bachelor,Stanford University,high_end,NONE,NONE
+Iulianna Filatova,NONE,NONE,31,NONE,NONE,NONE,1,LocalBank,low_end,NONE,NONE,NONE,"Knitting, Gardening, Pottery, Cycling, Photography",low_end
+Xia Yue  Yang ,female,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,Princeton University,high_end,NONE,NONE
+Agafon Tesakov,male,NONE,NONE,married,NONE,other,NONE,NONE,NONE,NONE,South Valley Technical School,low_end,NONE,NONE
+Rufo Borrego,male,latin America,35,NONE,Christian,straight,3,LocalBank,low_end,NONE,Capital City Institute,low_end,"Baking, Pottery, Camping, Knitting, Gardening",low_end
+NONE,male,Africa,NONE,divorced,Indigenous Religion,bisexual,NONE,LocalBank,low_end,NONE,NONE,NONE,"Photography, Gardening, Pottery, Fishing, Painting",low_end
+Kwame Diallo,male,Africa,52,divorced,Indigenous Religion,gay,7,LocalBank,low_end,PhD,River Valley Technical School,low_end,"Painting, Baking, Writing, Cycling, Hiking",low_end
+Maryalice Mason,female,NONE,40,widowed,NONE,NONE,16,QuickTech Solutions,low_end,NONE,NONE,NONE,"Baking, Writing, Painting, Camping, Pottery",low_end
+Idalia Weryszko,NONE,east Europe,29,NONE,Orthodox,NONE,1,NONE,NONE,Masters,Lakeside Community College,low_end,NONE,NONE
+NONE,female,Africa,NONE,NONE,Christian,straight,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Painting, Fishing, Writing, Knitting, Cooking",low_end
+NONE,female,NONE,79,single,NONE,other,51,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Krystian Burzynski,NONE,NONE,NONE,NONE,NONE,other,NONE,Twitter,high_end,NONE,NONE,NONE,"Blockchain, AI/ML, Networking, Natural Language Processing, Machine Learning",high_end
+Karry Riddle,NONE,west Europe,NONE,NONE,Christian,gay,NONE,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+NONE,NONE,NONE,56,married,NONE,NONE,5,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Amara Diallo,female,NONE,NONE,NONE,NONE,gay,NONE,NONE,NONE,NONE,Westside Polytechnic,low_end,NONE,NONE
+srkh shhHsyny,female,NONE,46,NONE,NONE,straight,7,Intel,high_end,NONE,Yale University,high_end,"DevOps, Cybersecurity, Java, Python, C++",high_end
+NONE,female,west Europe,32,NONE,Christian,gay,11,IBM,high_end,Bachelor,NONE,NONE,"C++, Mobile Development, Java, Natural Language Processing, Data Science",high_end
+NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,BasicManufacturing,low_end,NONE,NONE,NONE,"Bird Watching, Baking, Writing, Woodworking, Fishing",low_end
+NONE,female,Africa,33,single,Christian,NONE,3,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+NONE,NONE,NONE,26,NONE,NONE,NONE,5,Amazon,high_end,Masters,University of Chicago,high_end,"C++, Blockchain, Machine Learning, Python, DevOps",high_end
+Earlena Gaitan,female,latin America,NONE,widowed,Jewish,gay,NONE,QuickTech Solutions,low_end,NONE,NONE,NONE,"Cycling, Hiking, Painting, Camping, Fishing",low_end
+NONE,NONE,Africa,NONE,NONE,Christian,NONE,NONE,EduSupport,low_end,NONE,Westside Polytechnic,low_end,"Fishing, Photography, Writing, Painting, Bird Watching",low_end
+Digna Jasso,female,latin America,39,NONE,Indigenous Religion,NONE,15,NONE,NONE,PhD,University of Cambridge,high_end,NONE,NONE
+bhshyd khdpnhy,female,middle East,NONE,divorced,Jewish,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+Shaquana Burke,NONE,NONE,74,single,NONE,NONE,21,NONE,NONE,PhD,Capital City Institute,low_end,NONE,NONE
+NONE,NONE,north America,NONE,widowed,Muslim,gay,NONE,NONE,NONE,NONE,River Valley Technical School,low_end,NONE,NONE
+NONE,male,NONE,78,divorced,NONE,NONE,51,IBM,high_end,Masters,NONE,NONE,"Data Science, C++, Cybersecurity, Machine Learning, Cloud Computing",high_end
+NONE,NONE,middle East,NONE,divorced,Muslim,NONE,NONE,Amazon,high_end,NONE,NONE,NONE,"Blockchain, AI/ML, Data Science, Cybersecurity, DevOps",high_end
+Alandra Olivarez,female,latin America,NONE,NONE,Christian,NONE,NONE,LocalBank,low_end,NONE,Capital City Institute,low_end,"Photography, Hiking, Writing, Baking, Painting",low_end
+Zubair Diallo,NONE,Africa,31,NONE,Christian,other,2,NONE,NONE,NONE,Greenwood Institute,low_end,NONE,NONE
+NONE,male,NONE,NONE,NONE,NONE,bisexual,NONE,Microsoft,high_end,NONE,University of Oxford,high_end,"Cybersecurity, Natural Language Processing, C++, Blockchain, Data Science",high_end
+NONE,NONE,NONE,NONE,married,NONE,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+NONE,female,NONE,70,NONE,NONE,straight,20,Facebook,high_end,NONE,University of Chicago,high_end,"Networking, Java, Blockchain, Mobile Development, Cybersecurity",high_end
+Wenzel Krause,male,west Europe,22,divorced,Christian,NONE,3,IBM,high_end,NONE,NONE,NONE,"DevOps, Java, Networking, C++, Blockchain",high_end
+NONE,female,middle East,28,divorced,Muslim,NONE,2,BasicManufacturing,low_end,Masters,NONE,NONE,"Woodworking, Camping, Pottery, Gardening, Painting",low_end
+atsh drghy,male,NONE,64,single,NONE,straight,31,NONE,NONE,Masters,NONE,NONE,NONE,NONE
+Kuno Vestergaard,male,NONE,NONE,NONE,NONE,bisexual,NONE,Netflix,high_end,NONE,NONE,NONE,"Java, Blockchain, Data Science, C++, Cloud Computing",high_end
+Stormy Henson,NONE,NONE,70,divorced,NONE,other,22,QuickTech Solutions,low_end,Bachelor,NONE,NONE,"Fishing, Writing, Cycling, Baking, Gardening",low_end
+NONE,male,NONE,38,widowed,NONE,other,3,NONE,NONE,PhD,Midwest Regional University,low_end,NONE,NONE
+NONE,NONE,Africa,NONE,married,Muslim,straight,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
